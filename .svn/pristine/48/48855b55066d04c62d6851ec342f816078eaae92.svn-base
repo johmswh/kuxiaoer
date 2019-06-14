@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1,IE=10, IE=9, IE=8"/>
+    <meta name="renderer" content="webkit|ie-stand|ie-comp" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!--<title>酷小二企业服务天猫入驻</title>-->
+    <title><%= title %></title>
+    <meta name="keywords" content="天猫入驻,天猫商城入驻,天猫商城入驻代理,天猫入驻代理,网店入驻,网店入驻代理" />
+    <meta name="title" content="天猫入驻_天猫商城入驻_网店入驻代理-一站式电商服务平台酷小二">
+    <meta name="description" content="酷小二是国内领先的电商服务平台,提供天猫入驻，京东入驻,企业品牌包装等电商服务，包揽全类目入驻不玩概率，入驻成功后再收费，签订企业合同法律保障，入驻网店就找酷小二。" />
+    <!-- 引入ico图标 -->
+    <link rel="shortcut icon" href="favicon.ico" />
+    <!-- 引用浏览器初始化样式css文件 -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <!-- 引用公共css样式文件 -->
+    <link rel="stylesheet" href="css/common.css">
+</head>
+<body>
+    <div class="container" style="text-align: center; margin-top: 200px;">
+        <!--<%= message %>-->
+        <h1 style="font-size: 36px;">抱歉，当前页面未找到！</h1>
+        <h2 style="margin-top: 30px;"><%= error.status %></h2>
+
+        <!--<pre><%= error.stack %></pre>-->
+    </div>
+</body>
+</html>

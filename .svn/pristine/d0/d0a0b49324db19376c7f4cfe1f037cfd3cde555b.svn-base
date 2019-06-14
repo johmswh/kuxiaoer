@@ -1,0 +1,48 @@
+
+.top-bar .header-center .nav-select .li_d {
+	background-color: #c81623;
+}
+
+.top-bar .header-center .nav-select .select-d {
+    color: #fff;
+}
+/*.top-bar .header-center .nav-select .select-d {
+    color: #c81623;
+}
+*/
+.main .bannerBG {
+	width: 100%;
+	min-width: 1200px;
+	background: url(../images/jdProxyOperation/jdProxyBanner.png) center center no-repeat;
+	clear: both;
+	overflow: hidden;
+}
+
+.main .banner {
+	width: 1200px;
+	height: 800px;
+	/*background-color: red;*/
+	/*background: url(../images/jdProxyOperation/jdProxyBanner.png) center center no-repeat;*/
+	position: relative;
+}
+
+.main .banner .banner-info {
+	width: 1200px;
+	height: 620px;
+	position: absolute;
+	top: 50%;
+	margin-top: -310px;
+	left: 50%;
+	margin-left: -595px;
+}
+
+.main .banner .banner-info .btnClickIn {
+	width: 306px;
+	height: 55px;
+	background: url(../images/jdProxyOperation/nowReserve.png) center center no-repeat;
+	position: absolute;
+	bottom: 70px;
+	left: 50%;
+	margin-left: -153px;
+	cursor:pointer;
+}

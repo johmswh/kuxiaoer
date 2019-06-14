@@ -1,0 +1,211 @@
+
+.top-bar .header-center .nav-select .li_b {
+	background-color: #c81623;
+}
+
+.top-bar .header-center .nav-select .select-b {
+    color: #fff;
+}
+
+.top-bar .header-center .phone-call {
+    margin-right: 180px;
+}
+
+.top-bar .header-center .nav-select li {
+    font-size: 20px;
+    padding: 0px 20px;
+    font-weight: 400;
+    line-height: 60px;
+    text-align: center;
+}
+
+.bannerBG {
+	width: 100%;
+	min-width: 1200px;
+	background: url(../images/aboutMe/banner.png) center center no-repeat;
+	clear: both;
+	overflow: hidden;
+	/*position: relative;*/
+}
+
+.banner {
+	position: relative;
+	height: 600px;
+}
+
+.banner .shaderBox {
+	width: 660px;
+	height: 280px;
+	background-color: #000;
+	opacity: .4;
+	position: absolute;
+	top: 50%;
+	margin-top: -140px;
+	left: 50%;
+	margin-left: -330px;
+}
+
+.banner #textOne {
+	width: 1200px;
+	position: absolute;
+	top: 220px;
+	font-size: 70px;
+	font-weight: 700;
+	color: #fff;
+	text-align: center;
+}
+
+.banner #textTwo {
+	width: 1200px;
+	position: absolute;
+	top: 320px;
+	font-size: 24px;
+	font-weight: 400;
+	color: #fff;
+	text-align: center;
+}
+
+.pwdBoxBG {
+	width: 100%;
+	min-width: 1200px;
+	background-color: #c9121c;
+	clear: both;
+	overflow: hidden;
+}
+
+.pwdBox {
+	height: 40px;	
+	line-height: 40px;
+	color: #fcf5f5;
+	font-size: 14px;
+}
+
+.contentInfoBox {
+	width: 100%;
+	min-width: 1200px;
+	position: relative;
+}
+
+.contentInfoBox .contentInfo {
+	height: 1227px;
+	background-color: #fff;
+	box-shadow: 1px 1px 10px #000;
+	border: 1px solid #fff;
+	position: absolute;
+	left: 50%;
+	margin-left: -600px;
+}
+
+.contentInfoBox .contentInfo .titleBox {
+	height: 135px;
+	position: relative;
+	border-bottom: 1px dashed #ccc;
+}
+
+.contentInfoBox .contentInfo .titleBox #titleOne{
+	width: 1200px;
+	position: absolute;
+	top: 40px;
+	font-size: 36px;
+	text-align: center;
+	color: #000;
+}
+
+.contentInfoBox .contentInfo .titleBox #titleTwo{
+	width: 1200px;
+	position: absolute;
+	top: 90px;
+	font-size: 18px;
+	text-align: center;
+	color: #7d7d7d;
+}
+
+.contentInfoBox .contentInfo .companyInfo {
+	margin-top: 50px;
+	width: 1100px;
+	height: 600px;
+	font-size: 20px;
+	line-height: 35px;
+	position: absolute;
+	left: 50%;
+	margin-left: -550px;
+	overflow: hidden;
+}
+
+.contentInfoBox .contentInfo .companyInfo p{
+	text-indent:2em;
+}
+
+.contentInfoBox .contentBGTop {
+	height: 1040px;
+	background-color: #e7e7e7;
+}
+
+.contentInfoBox .contentBGDown {
+	height: 310px;
+	background-color: #c9121c;
+}
+
+#banner {
+	position: absolute;
+	width: 1100px;
+	top: 700px;
+	left: 50%;
+	margin-left: -550px;
+	overflow: hidden;
+}
+#carousel {
+	position:relative;
+	z-index:2;
+	margin-top:20px;
+	transform-style:preserve-3d;
+	perspective:800px
+}
+#carousel img {
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin-left:-350px;
+	transition:transform .5s ease-in-out;
+	box-shadow:8px 8px 20px rgba(0,0,0,.2);
+	cursor:pointer
+}
+#bannerNav {
+	position:relative;
+	margin-top:20px;
+	height:10px;
+	padding:10px 0;
+	text-align:center
+}
+#bannerNav ul li {
+	cursor:pointer;
+	overflow:hidden;
+	display:inline-block;
+	width:22px;
+	margin:0 2px
+}
+#bannerNav ul li a {
+	margin:0 auto;
+	display:block;
+	width:6px;
+	height:6px;
+	vertical-align:top;
+	border-radius:3px;
+	background:#5e6671;
+	font-size:0
+}
+#bannerNav ul li.on a,#bannerNav ul li:hover a {
+	background:#c9121c;
+}
+#bannerNav ul li.on a {
+	width:20px
+}
+
+#carousel {
+	height:351px
+}
+#carousel img {
+	width:700px;
+	border-radius: 10px;
+	opacity: 0;
+}

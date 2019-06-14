@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1,IE=10, IE=9, IE=8"/>
+    <meta name="renderer" content="webkit|ie-stand|ie-comp" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>酷小二_国内专业的天猫京东服务平台</title>
+    <meta name="keywords" content="天猫入驻,天猫商城入驻,天猫商城入驻代理,天猫入驻代理,网店入驻,网店入驻代理" />
+    <meta name="title" content="天猫入驻_天猫商城入驻_网店入驻代理-一站式电商服务平台酷小二">
+    <meta name="description" content="酷小二是国内领先的电商服务平台,提供天猫入驻，京东入驻,企业品牌包装等电商服务，包揽全类目入驻不玩概率，入驻成功后再收费，签订企业合同法律保障，入驻网店就找酷小二。" />
+    <link rel="shortcut icon" href="../favicon.ico" />
+    <link href="../css/enterone/animate.css" rel="stylesheet" media="screen" type="text/css" />
+    <link href="../css/enterone/appfeb6.css" rel="stylesheet" media="screen" type="text/css" />
+    <script src="../javascript/enterone/jquery-1.9.1.min.js"></script>
+    <script src="../javascript/enterone/wow.min.js"></script>
+    <script src="../javascript/enterone/app3ffd.js"></script>
+
+    <script type="text/javascript">
+        function onKST() {
+            window.open('https://rytk20.kuaishang.cn/bs/im.htm?cas=122918___874793&fi=125383');
+        }
+    </script>
+</head>
+    <body>
+        <div class="content_ index">
+            <div class="header" id="header">
+            <div class="header_top">
+                <div class="top">
+                    <div class="top_left">
+                        <!-- <span class="sc">
+                            <a href="javascript:void(0);" onclick="onKST();" target="_blank">收藏酷小二</a>
+                        </span>
+                        <span class="wc">
+                            <a href="javascript:void(0);" onclick="onKST();" target="_blank">微信了解</a>
+                        </span> -->
+                    </div>
+                    <div class="top_right">
+                        <span><i>您好，欢迎来酷小二!</i>-国内领先的天猫京东入驻机构！</span>
+                        <span>
+                            <a href="javascript:void(0);" onclick="onKST();" target="_blank"><i>联系我们</i></a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div class="header_content">
+                <div class="header_main">
+                    <div class="logo">
+                        <a href="enterone.html">
+                            <img src="../images/enterone/header_logo.png">
+                        </a>
+                    </div>
+                    <div class="header_logo_button">
+                        <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                            <img src="../images/enterone/header_logo_button.gif">
+                        </a>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>            
+        <div class="banner">
+            <div class="banner_box banner_1" style="background-image: url(../images/enterone/banner/banner_1.jpg);"></div>
+            <div class="banner_box banner_2" style="background-image: url(../images/enterone/banner/banner_2.jpg);"></div>
+            <div class="banner_box banner_3" style="background-image: url(../images/enterone/banner/banner_3.jpg);"></div>
+            <div class="banner_box banner_4" style="background-image: url(../images/enterone/banner/banner_4.jpg);"></div>
+            <div class="banner_box banner_5" style="background-image: url(../images/enterone/banner/banner_5.jpg);"></div>
+            <div class="banner_box banner_6" style="background-image: url(../images/enterone/banner/banner_6.jpg);"></div>
+            <div class="banner_box banner_7" style="background-image: url(../images/enterone/banner/banner_7.jpg);"></div>
+            <div class="banner_box banner_8" style="background-image: url(../images/enterone/banner/banner_8.jpg);"></div>
+            <div class="banner_box banner_9" style="background-image: url(../images/enterone/banner/banner_9.jpg);"></div>
+            <div class="banner_box banner_10" style="background-image: url(../images/enterone/banner/banner_10.jpg);"></div>
+            <div class="banner_bg" style=""></div>
+                <div class="content">
+                    <div class="box-content">
+
+                    </div>
+                    <div class="wow fadeInUp delay-0s bottom-box" style="">
+                        <div class="box-content">
+                            <div class="num-title">
+                                <i>酷小二</i>专业一站式入驻<i>天猫</i>和京东
+                            </div>
+                            <div class="tel-title">
+                                <h1>‭400-100-3669‬</h1>
+                                <p>专属咨询顾问随时为您服务</p>
+                            </div>
+                            <!--<div class="button" onclick="">-->
+                            <a href="javascript:void(0);" onclick="onKST();">
+                                <img src="../images/enterone/banner/button.png"/>
+                            </a>
+                            <!--</div>-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="box1">
+                <div class="box-content">
+                    <div class="box-title">
+                        强势入驻天猫和京东各大类目
+                        <div class="title-img">
+                            <img src="../images/enterone/box1/title.png"/>
+                        </div>
+                    </div>
+                    <ul class="items">
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 0s;animation-delay: 0s;">
+                                <img src="../images/enterone/box1/item-1.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">服饰</div>
+                        </li>
+                            <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 0.1s;animation-delay: 0.1s;">
+                                <img src="../images/enterone/box1/item-2.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">母婴</div>
+                        </li>
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 0.2s;animation-delay: 0.2s;">
+                                <img src="../images/enterone/box1/item-3.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">化妆品</div>
+                        </li>
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 0.3s;animation-delay: 0.3s;">
+                                <img src="../images/enterone/box1/item-4.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">食品</div>
+                        </li>
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 0.4s;animation-delay: 0.4s;">
+                                <img src="../images/enterone/box1/item-5.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">3C</div>
+                        </li>
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 0.5s;animation-delay: 0.5s;">
+                                <img src="../images/enterone/box1/item-6.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">图书文具</div>
+                        </li>
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 0.1s;animation-delay: 0.1s;">
+                                <img src="../images/enterone/box1/item-7.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">医药用品</div>
+                        </li>
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 0.2s;animation-delay: 0.2s;">
+                                <img src="../images/enterone/box1/item-8.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">益智玩具</div>
+                        </li>
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 0.3s;animation-delay: 0.3s;">
+                                <img src="../images/enterone/box1/item-9.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">教育服务</div>
+                        </li>
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 0.4s;animation-delay: 0.4s;">
+                                <img src="../images/enterone/box1/item-10.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">配饰</div>
+                        </li>
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 0.5s;animation-delay: 0.5s;">
+                                <img src="../images/enterone/box1/item-11.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">家具家纺</div>
+                        </li>
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 0.6s;animation-delay: 0.6s;">
+                                <img src="../images/enterone/box1/item-12.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">生活用品</div>
+                        </li>
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 0.7s;animation-delay: 0.7s;">
+                                <img src="../images/enterone/box1/item-13.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">卫生用品</div>
+                        </li>
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 0.8s;animation-delay: 0.8s;">
+                                <img src="../images/enterone/box1/item-14.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">厨具</div>
+                        </li>
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 0.9s;animation-delay: 0.9s;">
+                                <img src="../images/enterone/box1/item-15.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">小家电</div>
+                        </li>
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 1s;animation-delay: 1s;">
+                                <img src="../images/enterone/box1/item-16.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">手机周边</div>
+                        </li>
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 1.1s;animation-delay: 1.1s;">
+                                <img src="../images/enterone/box1/item-17.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">内衣</div>
+                        </li>
+                        <li class="item">
+                            <div class="wow img flipInY" style="-webkit-animation-delay: 1.2s;animation-delay: 1.2s;">
+                                <img src="../images/enterone/box1/item-18.png" class="animate0_5"/>
+                                <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                                    <div class="img-fixed">立即入驻</div>
+                                </a>
+                            </div>
+                            <div class="txt">其他类目</div>
+                        </li>
+                        <div class="clear"></div>
+                    </ul>
+                    <div class="bottom">
+                        <img src="../images/enterone/box1/bottom-bg.png"/>
+                    </div>
+                </div>
+            </div>
+            <div class="box3">
+                <div class="bg-content">
+                    <div class="bg-img"></div>
+                    <span class="clear"></span>
+                </div>
+                <div class="content">
+                    <div class="box-content">
+                        <div class="item-box">
+                            <div class="wow title bounceInDown">入驻天猫<i>4大难点</i></div>
+                            <div class="wow description bounceInDown">您是否有遇到这样的难题?没事，我们来帮您解决</div>
+                            <div class="items">
+                                <div class="wow item1 flipInX" style="-webkit-animation-delay: 0s;animation-delay: 0s;">
+                                    <!-- <div class="wow item-num fadeInRight" style="-webkit-animation-delay: 0.7s;animation-delay: 0.7s;">1</div> -->
+                                    <div class="item-desc item-back05"></div>
+                                    <div class="item-desc">天猫新规已经全面启动定向招商，没有线下影响力的小公司，想通过自己的努力成功入驻天猫，难于上青天！</div>
+                                    <div class="item-title" style="background: #ff3535 url(../images/enterone/box3/icon_1.png) 45px center no-repeat;">定向招商</div>
+                                </div>
+                                <div class="wow item2 flipInX" style="-webkit-animation-delay: 0.2s;animation-delay: 0.2s;">
+                                    <!-- <div class="wow item-num fadeInRight" style="-webkit-animation-delay: 0.9s;animation-delay: 0.9s;">2</div> -->
+                                    <div class="item-desc item-back05"></div>
+                                    <div class="item-desc">为防止店铺饱和，天猫对大量类目施行停止入驻，让一些渴望进入天猫的企业卖家们只能"望猫兴叹"!</div>
+                                    <div class="item-title" style="background: #ff3535 url(../images/enterone/box3/icon_2.png) 45px center no-repeat;">类目限定</div>
+                                </div>
+                                <div class="wow item3 flipInX" style="-webkit-animation-delay: 0.4s;animation-delay: 0.4s;">
+                                    <!-- <div class="wow item-num fadeInRight" style="-webkit-animation-delay: 1.1s;animation-delay: 1.1s;">3</div> -->
+                                    <div class="item-desc item-back05"></div>
+                                    <div class="item-desc">申请入驻天猫的企业众多，天猫要逐一进行资料的审核，我们大量的时间都花在了排队等待审核的过程中!</div>
+                                    <div class="item-title" style="background: #ff3535 url(../images/enterone/box3/icon_3.png) 45px center no-repeat;">耗时耗力</div>
+                                </div>
+                                <div class="wow item4 flipInX" style="-webkit-animation-delay: 0.6s;animation-delay: 0.6s;">
+                                    <!-- <div class="wow item-num fadeInRight" style="-webkit-animation-delay: 1.3s;animation-delay: 1.3s;">4</div> -->
+                                    <div class="item-desc item-back05"></div>
+                                    <div class="item-desc">即便是自己完成了以上的步骤，依然有很大的几率被天猫无情的拒绝，还可能导致永久被天猫拒之于门外!</div>
+                                    <div class="item-title" style="background: #ff3535 url(../images/enterone/box3/icon_4.png) 45px center no-repeat;">成功率低</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bottom">
+                    <div class="box-content">
+                        <img src="../images/enterone/box3/bottom-bg.png" />
+                    </div>
+                </div>
+            </div>
+            
+            <div class="box6">
+                <div class="box-content">
+                    <div class="box-title">
+                        酷小二代办天猫入驻流程
+                        <div class="title-img">
+                            <img src="../images/enterone/box6/title.png"/>
+                        </div>
+                    </div>
+                    <div class="items">
+                        <div class="item-box item-box1">
+                            <div class="wow fadeInUp item" style="-webkit-animation-delay: 0s;animation-delay: 0s;">
+                                <div class="wow bounceInLeft item-num" style="-webkit-animation-delay: 1s;animation-delay: 1s;">
+                                    <div>1</div>
+                                </div>
+                                <div class="item-txt">
+                                    <img src="../images/enterone/box6/item1.png" class="wow flipInY" style="-webkit-animation-delay: 0.1s;animation-delay: 0.1s;"/>
+                                    <div class="wow zoomIn" style="-webkit-animation-delay: 0.2s;animation-delay: 0.2s;">项目需求分析</div>
+                                </div>
+                                <div class="wow rollIn gt" style="-webkit-animation-delay: 1s;animation-delay: 1s;">
+                                    <img src="../images/enterone/box6/gt.png"/>
+                                </div>
+                            </div>
+                            <div class="wow fadeInUp item" style="-webkit-animation-delay: 0.1s;animation-delay: 0.1s;">
+                                <div class="wow bounceInLeft item-num" style="-webkit-animation-delay: 1.1s;animation-delay: 1.1s;">
+                                    <div>2</div>
+                                </div>
+                                <div class="item-txt">
+                                    <img src="../images/enterone/box6/item2.png" class="wow flipInY" style="-webkit-animation-delay: 0.3s;animation-delay: 0.3s;"/>
+                                    <div class="wow zoomIn" style="-webkit-animation-delay: 0.4s;animation-delay: 0.4s;">沟通入驻意向</div>
+                                </div>
+                                <div class="wow rollIn gt" style="-webkit-animation-delay: 1.2s;animation-delay: 1.2s;">
+                                    <img src="../images/enterone/box6/gt.png"/>
+                                </div>
+                            </div>
+                            <div class="wow fadeInUp item" style="-webkit-animation-delay: 0.2s;animation-delay: 0.2s;">
+                                <div class="wow bounceInLeft item-num" style="-webkit-animation-delay: 1.2s;animation-delay: 1.2s;">
+                                    <div>3</div>
+                                </div>
+                                <div class="item-txt">
+                                    <img src="../images/enterone/box6/item3.png" class="wow flipInY" style="-webkit-animation-delay: 0.5s;animation-delay: 0.5s;"/>
+                                    <div class="wow zoomIn" style="-webkit-animation-delay: 0.6s;animation-delay: 0.6s;">制定入驻方案</div>
+                                </div>
+                                <div class="wow rollIn gt" style="-webkit-animation-delay: 1.4s;animation-delay: 1.4s;">
+                                    <img src="../images/enterone/box6/gt.png"/>
+                                </div>
+                            </div>
+                            <div class="wow fadeInUp item" style="-webkit-animation-delay: 0.3s;animation-delay: 0.3s;">
+                                <div class="wow bounceInLeft item-num" style="-webkit-animation-delay: 1.3s;animation-delay: 1.3s;">
+                                    <div>4</div>
+                                </div>
+                                <div class="item-txt">
+                                    <img src="../images/enterone/box6/item4.png" class="wow flipInY" style="-webkit-animation-delay: 0.7s;animation-delay: 0.7s;"/>
+                                    <div class="wow zoomIn" style="-webkit-animation-delay: 0.8s;animation-delay: 0.8s;">签订合同</div>
+                                </div>
+                                <div class="wow rollIn gt" style="-webkit-animation-delay: 1.6s;animation-delay: 1.6s;">
+                                    <img src="../images/enterone/box6/gt.png"/>
+                                </div>
+                            </div>
+                            <div class="wow fadeInUp item" style="-webkit-animation-delay: 0.4s;animation-delay: 0.4s;">
+                                <div class="wow bounceInLeft item-num" style="-webkit-animation-delay: 1.4s;animation-delay: 1.4s;">
+                                    <div>5</div>
+                                </div>
+                                <div class="item-txt">
+                                    <img src="../images/enterone/box6/item5.png" class="wow flipInY" style="-webkit-animation-delay: 0.9s;animation-delay: 0.9s;"/>
+                                    <div class="wow zoomIn" style="-webkit-animation-delay: 1s;animation-delay: 1s;">协助资料提供</div>
+                                </div>
+                                <div class="wow rollIn gt" style="-webkit-animation-delay: 1.8s;animation-delay: 1.8s;">
+                                    <img src="../images/enterone/box6/gt.png"/>
+                                </div>
+                            </div>
+                            <div class="wow fadeInUp item" style="-webkit-animation-delay: 0.5s;animation-delay: 0.5s;">
+                                <div class="wow bounceInLeft item-num" style="-webkit-animation-delay: 1.5s;animation-delay: 1.5s;">
+                                    <div>6</div>
+                                </div>
+                                <div class="item-txt">
+                                    <img src="../images/enterone/box6/item6.png" class="wow flipInY" style="-webkit-animation-delay: 1.1s;animation-delay: 1.1s;"/>
+                                    <div class="wow zoomIn" style="-webkit-animation-delay: 1.2s;animation-delay: 1.2s;">材料初审</div>
+                                </div>
+                                <div class="wow rollIn gt" style="-webkit-animation-delay: 2s;animation-delay: 2s;">
+                                    <img src="../images/enterone/box6/gt.png"/>
+                                </div>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="item-box item-box2">
+                            <div class="wow fadeInUp item" style="-webkit-animation-delay: 1.1s;animation-delay: 1.1s;">
+                                <div class="wow bounceInRight item-num" style="-webkit-animation-delay: 2.1s;animation-delay: 2.1s;">
+                                    <div>12</div>
+                                </div>
+                                <div class="item-txt">
+                                    <img src="../images/enterone/box6/item12.png" class="wow flipInY" style="-webkit-animation-delay: 2.3s;animation-delay: 2.3s;"/>
+                                    <div class="wow zoomIn" style="-webkit-animation-delay: 2.4s;animation-delay: 2.4s;">后续培训</div>
+                                </div>
+                                <div class="wow rollIn gt" style="-webkit-animation-delay: 3.2s;animation-delay: 3.2s;">
+                                    <img src="../images/enterone/box6/lt.png"/>
+                                </div>
+                            </div>
+                            <div class="wow fadeInUp item" style="-webkit-animation-delay: 1s;animation-delay: 1s;">
+                                <div class="wow bounceInRight item-num" style="-webkit-animation-delay: 2s;animation-delay: 2s;">
+                                    <div>11</div>
+                                </div>
+                                <div class="item-txt">
+                                    <img src="../images/enterone/box6/item11.png" class="wow flipInY" style="-webkit-animation-delay: 2.1s;animation-delay: 2.1s;"/>
+                                    <div class="wow zoomIn" style="-webkit-animation-delay: 2.2s;animation-delay: 2.2s;">服务付款</div>
+                                </div>
+                                <div class="wow rollIn gt" style="-webkit-animation-delay: 3s;animation-delay: 3s;">
+                                    <img src="../images/enterone/box6/lt.png"/>
+                                </div>
+                            </div>
+                            <div class="wow fadeInUp item" style="-webkit-animation-delay: 0.9s;animation-delay: 0.9s;">
+                                <div class="wow bounceInRight item-num" style="-webkit-animation-delay: 1.9s;animation-delay: 1.9s;">
+                                    <div>10</div>
+                                </div>
+                                <div class="item-txt">
+                                    <img src="../images/enterone/box6/item10.png" class="wow flipInY" style="-webkit-animation-delay: 1.9s;animation-delay: 1.9s;"/>
+                                    <div class="wow zoomIn" style="-webkit-animation-delay: 2s;animation-delay: 2s;">客户验收</div>
+                                </div>
+                                <div class="wow rollIn gt" style="-webkit-animation-delay: 2.8s;animation-delay: 2.8s;">
+                                    <img src="../images/enterone/box6/lt.png"/>
+                                </div>
+                            </div>
+                            <div class="wow fadeInUp item" style="-webkit-animation-delay: 0.8s;animation-delay: 0.8s;">
+                                <div class="wow bounceInRight item-num" style="-webkit-animation-delay: 1.8s;animation-delay: 1.8s;">
+                                    <div>9</div>
+                                </div>
+                                <div class="item-txt">
+                                    <img src="../images/enterone/box6/item9.png" class="wow flipInY" style="-webkit-animation-delay: 1.7s;animation-delay: 1.7s;"/>
+                                    <div class="wow zoomIn" style="-webkit-animation-delay: 1.8s;animation-delay: 1.8s;">品牌评估通过</div>
+                                </div>
+                                <div class="wow rollIn gt" style="-webkit-animation-delay: 2.6s;animation-delay: 2.6s;">
+                                    <img src="../images/enterone/box6/lt.png"/>
+                                </div>
+                            </div>
+                            <div class="wow fadeInUp item" style="-webkit-animation-delay: 0.7s;animation-delay: 0.7s;">
+                                <div class="wow bounceInRight item-num" style="-webkit-animation-delay: 1.7s;animation-delay: 1.7s;">
+                                    <div>8</div>
+                                </div>
+                                <div class="item-txt">
+                                    <img src="../images/enterone/box6/item8.png" class="wow flipInY" style="-webkit-animation-delay: 1.5s;animation-delay: 1.5s;"/>
+                                    <div class="wow zoomIn" style="-webkit-animation-delay: 1.6s;animation-delay: 1.6s;">等待通知</div>
+                                </div>
+                                <div class="wow rollIn gt" style="-webkit-animation-delay: 2.4s;animation-delay: 2.4s;">
+                                    <img src="../images/enterone/box6/lt.png"/>
+                                </div>
+                            </div>
+                            <div class="wow fadeInUp item" style="-webkit-animation-delay: 0.6s;animation-delay: 0.6s;">
+                                <div class="wow bounceInRight item-num" style="-webkit-animation-delay: 1.6s;animation-delay: 1.6s;">
+                                    <div>7</div>
+                                </div>
+                                <div class="item-txt">
+                                    <img src="../images/enterone/box6/item7.png" class="wow flipInY" style="-webkit-animation-delay: 1.3s;animation-delay: 1.3s;"/>
+                                    <div class="wow zoomIn" style="-webkit-animation-delay: 1.4s;animation-delay: 1.4s;">绿色通道</div>
+                                </div>
+                                <div class="wow rollIn gt" style="-webkit-animation-delay: 2.2s;animation-delay: 2.2s;">
+                                    <img src="../images/enterone/box6/lt.png"/>
+                                </div>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                    <div class="people-box">
+                        <img src="../images/enterone/box6/people.png" class="wow fadeInLeft people"/>
+                    </div>
+                </div>
+            </div>
+            <div id="box7" class="box7 wow flipInX">
+                <div class="img img_1" style="background-image: url(../images/enterone/box7/img_1.jpg);"></div>
+                <div class="img img_2" style="background-image: url(../images/enterone/box7/img_2.jpg);"></div>
+                <div class="img img_3" style="background-image: url(../images/enterone/box7/img_3.jpg);"></div>
+                <div class="img img_4" style="background-image: url(../images/enterone/box7/img_4.jpg);"></div>
+                <div class="img img_5" style="background-image: url(../images/enterone/box7/img_5.jpg);"></div>
+                <div class="img img_6" style="background-image: url(../images/enterone/box7/img_6.jpg);"></div>
+                <div class="img img_7" style="background-image: url(../images/enterone/box7/img_7.jpg);"></div>
+                <div class="img img_8" style="background-image: url(../images/enterone/box7/img_8.jpg);"></div>
+                <div class="img img_9" style="background-image: url(../images/enterone/box7/img_9.jpg);"></div>
+                <div class="img img_10" style="background-image: url(../images/enterone/box7/img_10.jpg);"></div>
+                <div class="content">
+                    <div class="form-content">
+                        <form action="submitEnter" method="post" id="fromSubmitEnterDown">
+                            <div class="form-item">
+                                <label><input type="radio" name="userGender" value="1" checked=""/><i>先生</i></label>
+                                <label><input type="radio" name="userGender" value="0"/><i>女士</i></label>
+                            </div>
+                            <div class="form-item required">
+                                <div class="item-input">
+                                    <input type="text" name="userName" autocomplete="off" required="" placeholder="请输入您的姓名"/>
+                                </div>
+                            </div>
+                            <div class="form-item">
+                                <div class="item-input">
+                                    <input type="text" name="youQQ" autocomplete="off" placeholder="请输入您的QQ"/>
+                                </div>
+                            </div>
+                            <div class="form-item">
+                                <div class="item-input">
+                                    <input type="text" name="youPhone" autocomplete="off" placeholder="请输入您的电话"/>
+                                </div>
+                            </div>
+                            <div class="form-item">
+                                <div class="item-input">
+                                    <input type="text" name="youWX" autocomplete="off" placeholder="请输入您的微信"/>
+                                </div>
+                            </div>
+                            <div class="form-item">
+                                <div class="button">
+                                    <img src="../images/enterone/box7/form-button.png" class="form-submit" onclick="submitEnterPost('#fromSubmitEnterDown')"/>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="footer wow fadeInUp">
+                <div class="content">
+                    <p>
+                        <span style="padding: 0 5px;">四川猫乐电子商务有限公司</span>
+                        <span style="padding: 0 5px;">地址:四川省成都市高新区天府三街峰汇中心2号楼4楼</span>
+                    </p>
+                    <p>
+                        <span style="padding: 0 5px;">联系电话:‭400-100-3669‬</span>
+                        <span style="padding: 0 5px;">
+                            <a href="http://www.miitbeian.gov.cn/" target="_blank"> 蜀ICP备19009830号-1</a>
+                        </span>
+                    </p>
+                </div>
+            </div>
+            <!-- <div class="fix-add" id="fix-add">
+                <ul>
+                    <li class="">
+                        <a href="javascript:void(0);" onclick="onKST();" target="_blank">
+                            <img width="22" src="../images/enterone/pup.gif" alt="咨询客服"/>
+                        </a>
+                    </li>
+                    <li class="phone">
+                        <img width="22" src="../images/enterone/phone.png" alt="电话"/>
+                        <div class="telephone">400-000-0000</div>
+                    </li>
+                    <li class="">
+                        <a rel="nofollow" href="javascript:void(0)" class="gotop" title="返回顶部">
+                            <img width="22" src="../images/enterone/gotop.png" alt="返回顶部"/>
+                        </a>
+                    </li>
+                </ul>
+            </div> -->
+        </div>
+    </body>
+<script>
+
+    function submitEnterPost ( idName ) {
+        $.ajax({
+            type: "post",
+            url: "/clientSubmit/submitEnter",
+            data: $( idName ).serialize(),
+        }).success(function(message) {
+            console.log(message);
+            if (message === 'ok')
+                alert("提交成功");
+            else {
+                alert("提交失败");
+            }
+        }).fail(function(err){
+            alert("提交失败");
+        });
+    }
+</script>
+</html>

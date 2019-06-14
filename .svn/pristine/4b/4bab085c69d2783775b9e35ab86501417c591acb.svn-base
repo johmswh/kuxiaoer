@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1,IE=10, IE=9, IE=8"/>
+	<meta name="renderer" content="webkit|ie-stand|ie-comp" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>酷小二企业服务天猫入驻</title>
+	<meta name="keywords" content="天猫入驻,天猫商城入驻,天猫商城入驻代理,天猫入驻代理,网店入驻,网店入驻代理" />
+	<meta name="title" content="天猫入驻_天猫商城入驻_网店入驻代理-一站式电商服务平台酷小二">
+	<meta name="description" content="酷小二是国内领先的电商服务平台,提供天猫入驻，京东入驻,企业品牌包装等电商服务，包揽全类目入驻不玩概率，入驻成功后再收费，签订企业合同法律保障，入驻网店就找酷小二。" />
+	<!-- 引入ico图标 -->
+	<link rel="shortcut icon" href="favicon.ico" />
+	<!-- 引用浏览器初始化样式css文件 -->
+	<link rel="stylesheet" href="css/normalize.css">
+	<!-- 引用公共css样式文件 -->
+	<link rel="stylesheet" href="css/common.css">
+	<!-- 引用当前页面对应的css文件 -->
+	<link rel="stylesheet" href="css/joinUS.css">
+	<!-- 加载js代码 -->
+    <script type="text/javascript" src="javascript/aboutMe.js"></script>
+</head>
+<body>
+	<!-- 头部区域开始 -->
+	<header class="top-bar">
+		<div class="header-top"></div>
+		<div class="header-center container clearfix">
+			<div class="logo fl">
+				<a href="index.html" class="logo">
+					<img src="images/logo.png" alt="酷小二">
+				</a>
+			</div>
+			<div class="phone-call fl">
+				<p id="phone-call-1">‭400-100-3669‬</p>
+				<p id="phone-call-2">‭028-6010-6111‬‬</p>
+			</div>
+			<div class="nav-select">
+				<ul class="nav-menu clearfix">
+					<li class="fl li_a"><a class="select-a" href="./index.html">首页</a></li>
+					<li class="fl li_b"><a class="select-b" href="./aboutMe.html">公司简介</a></li>
+					<li class="fl li_c"><a class="select-c" href="./joinUS.html">新闻中心</a></li>
+					<li class="fl li_d"><a class="select-d" href="./BC.html">商务合作</a></li>
+					<li class="fl li_e"><a class="select-e" href="./contactUS.html">联系方式</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="header-down"></div>
+	</header>
+	<!-- 头部区域结束 -->
+
+	<div class="nullBox container"></div>
+
+	<!-- 主体区域开始 -->
+	<section class="main clearfix">
+		<!-- banner 区域开始 -->
+		<div class="bannerBG">
+			<div class="banner container">
+				<div class="shaderBox"></div>
+				<p id="textOne">合作共赢&nbsp;携手向前</p>
+				<p id="textTwo">酷小二，一直在努力，为您提供专业的服务</p>
+			</div>
+		</div>
+		<!-- banner 区域结束 -->
+
+		<!-- pwd 区域开始 -->
+		<div class="pwdBoxBG">
+			<div class="pwdBox container">
+				<span>您现在的位置>首页>新闻中心</span>
+			</div>
+		</div>
+		<!-- pwd 区域结束 -->
+
+		<!-- 内容区域开始 -->
+		<div class="contentInfoBox">
+			<div class="contentInfo container">
+				<div class="titleBox">
+					<p id="titleOne">新闻中心</p>
+					<p id="titleTwo">THE PRESS CENTER</p>
+				</div>
+				<div id="companyInfo" class="companyInfo">
+					<div class="allItemInfo">
+						<div class="itemInfo">
+							<div class="itemIcon">
+								<a href="./news/newInfo.html?id=1" target="_blank"><img src="./upload/news/itemIcon_1.png" alt="icon"></a>
+							</div>
+							<div class="itemTextInfo">
+								<a href="./news/newInfo.html?id=1" target="_blank"><h1 class="title one-txt-cut">天猫招商公告！9大类目招商规则调整，今日正式生效！</h1></a>
+								<a href="./news/newInfo.html?id=1" target="_blank"><h5 class="newsInfo txt-cut">本次招商规则涉及的9大类目：“电子词典/电纸书/文化用品”“数字阅读”“手机号码/套餐/增值业务”“网游装备/游戏币/帐号/代练”六、“移动/联通/电信充值中心”类目变更点新建不同虚拟运营商充值对应的二级类目，邀约入驻。</h5></a>
+								<a href="./news/newInfo.html?id=1" target="_blank"><h5 class="newTime">2019-03-28 17:17</h5></a>
+							</div>
+						</div>
+						<div class="itemInfo">
+							<div class="itemIcon">
+								<a href="./news/newInfo.html?id=2" target="_blank"><img src="./upload/news/itemIcon_2.png" alt="icon"></a>
+							</div>
+							<div class="itemTextInfo">
+								<a href="./news/newInfo.html?id=2" target="_blank"><h1 class="title one-txt-cut">天猫入驻反馈品牌评估不通过怎么办？还可以再提交么？</h1></a>
+								<a href="./news/newInfo.html?id=2" target="_blank"><h5 class="newsInfo txt-cut">如果品牌评估不通过后，再次提交入驻天猫申请也使用相同样品牌相同公司。第二次都没有通过品牌评估，会以第一次提交时间为准限制三个月。因为积累自己的品牌管理、门店运营等方面的经验及能力，提升品牌影响力，这些都是需要一定时间的，所以建议以第一次提交时间为准三个月后再申请。</h5></a>
+								<a href="./news/newInfo.html?id=2" target="_blank"><h5 class="newTime">2019-03-26 16:03:29</h5></a>
+							</div>
+						</div>
+						<div class="itemInfo">
+							<div class="itemIcon">
+								<a href="./news/newInfo.html?id=3" target="_blank"><img src="./upload/news/itemIcon_3.png" alt="icon"></a>
+							</div>
+							<div class="itemTextInfo">
+								<a href="./news/newInfo.html?id=3" target="_blank"><h1 class="title one-txt-cut">服装类可以入驻天猫么？2019年服装类入驻天猫所需资质及资费标准</h1></a>
+								<a href="./news/newInfo.html?id=3" target="_blank"><h5 class="newsInfo txt-cut">类目【服饰配件/皮带/帽子/围巾】类目2、接受入驻的店铺类型：旗舰店/专卖店，以上四个一级类目接受指定品牌入驻或自荐品牌入驻。</h5></a>
+								<a href="./news/newInfo.html?id=3" target="_blank"><h5 class="newTime">2019-03-24 16:24</h5></a>
+							</div>
+						</div>
+						<div class="itemInfo">
+							<div class="itemIcon">
+								<a href="./news/newInfo.html?id=4" target="_blank"><img src="./upload/news/itemIcon_4.png" alt="icon"></a>
+							</div>
+							<div class="itemTextInfo">
+								<a href="./news/newInfo.html?id=4" target="_blank"><h1 class="title one-txt-cut">干货|怎么注册公司？一张图为您详解新公司注册流程及相关费用！</h1></a>
+								<a href="./news/newInfo.html?id=4" target="_blank"><h5 class="newsInfo txt-cut">“怎么注册一家新公司呢？”“注册一家公司具体的流程是怎样的?”“注册一家公司需要哪些费用呢?”“注册一家公司需要准备哪些资料呢？”“注册一家公司有哪些注意事项呢？”……这是很多创业者，或者准备在今年注册公司的朋友，经常会问到的问题。</h5></a>
+								<a href="./news/newInfo.html?id=4" target="_blank"><h5 class="newTime">2019-03-22 18:56</h5></a>
+							</div>
+						</div>
+					</div>
+					<div class="kuxiaoerNews">
+						<h3>酷小二最新资讯</h3>
+						<a href="./news/newInfo.html?id=1" target="_blank"><p>天猫招商公告！</p></a>
+						<a href="./news/newInfo.html?id=2" target="_blank"><p>天猫入驻反馈品牌评估不通过怎么办？还可以再提交么？</p></a>
+						<a href="./news/newInfo.html?id=3" target="_blank"><p>服装类可以入驻天猫么？2019年服装类入驻天猫所需资质及资费标准</p></a>
+					</div>
+					<div class="industryNews">
+						<div class="topTextInfo">
+							<h3>行业最新消息</h3>
+							<a href="./news/newInfo.html?id=1" target="_blank"><p>天猫招商公告！</p></a>
+							<a href="./news/newInfo.html?id=2" target="_blank"><p>天猫入驻反馈品牌评估不通过怎么办？还可以再提交么？</p></a>
+							<a href="./news/newInfo.html?id=3" target="_blank"><p>服装类可以入驻天猫么？2019年服装类入驻天猫所需资质及资费标准</p></a>
+						</div>
+						<div class="advertisingImage">
+							<img src="./upload/news/advertising_1.png" alt="">
+							<img src="./upload/news/advertising_2.png" alt="">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="contentBGTop"></div>
+			<div class="contentBGDown"></div>
+		</div>
+		<!-- 内容区域结束 -->
+	</section>
+	<!-- 主体区域结束 -->
+
+	<!-- 底部区域开始 -->
+	<footer class="footer">
+		<div class="footer-links container">
+            <div class="step_one">
+            	<a href="#">关于酷小二</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">售后政策</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">服务与支持</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">联系我们</a>
+            </div>
+			<div class="step_two">
+				<span style="margin-right: 10px;">电话：‭400-100-3669‬</span><span style="margin-left: 10px;">QQ：3007303727</span>
+			</div>
+			<div class="step_three">
+				<span>Copyright © 2019 <a href="http://www.miitbeian.gov.cn/" target="_blank"> 蜀ICP备19009830号-1</a> 版权所有 四川猫乐电子商务有限公司</span>
+			</div>
+        </div>
+	</footer>
+	<!-- 底部区域结束 -->
+</body>
+</html>

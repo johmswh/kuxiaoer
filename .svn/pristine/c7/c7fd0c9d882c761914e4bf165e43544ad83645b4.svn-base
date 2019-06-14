@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1,IE=10, IE=9, IE=8"/>
+	<meta name="renderer" content="webkit|ie-stand|ie-comp" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<!--<title>酷小二企业服务天猫入驻</title>-->
+    <title><%= title %></title>
+	<meta name="keywords" content="天猫入驻,天猫商城入驻,天猫商城入驻代理,天猫入驻代理,网店入驻,网店入驻代理" />
+	<meta name="title" content="天猫入驻_天猫商城入驻_网店入驻代理-一站式电商服务平台酷小二">
+	<meta name="description" content="酷小二是国内领先的电商服务平台,提供天猫入驻，京东入驻,企业品牌包装等电商服务，包揽全类目入驻不玩概率，入驻成功后再收费，签订企业合同法律保障，入驻网店就找酷小二。" />
+	<!-- 引入ico图标 -->
+	<link rel="shortcut icon" href="favicon.ico" />
+	<!-- 引用浏览器初始化样式css文件 -->
+	<link rel="stylesheet" href="css/normalize.css">
+	<!-- 引用公共css样式文件 -->
+	<link rel="stylesheet" href="css/common.css">
+	<!-- 图片字体 -->
+	<!-- <link rel="stylesheet" type="text/css" href="fonts/iconfont.css"> -->
+	<!-- 引用当前页面对应的css文件 -->
+	<link rel="stylesheet" href="css/index.css">
+    <!--百叶窗轮播图-->
+    <link rel="stylesheet" href="css/shutter.css">
+
+    <script type="text/javascript" src="javascript/smallScrollPage.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="css/animation.css"/>
+	<script type="text/javascript" src="javascript/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="javascript/animation.js"></script>
+	<script type="text/javascript" src="javascript/utils.js"></script>
+
+	<!--百度商桥相关-->
+	<meta name="baidu-site-verification" content="akKdMCC22t" />
+	<script>
+		var _hmt = _hmt || [];
+		(function() {
+			var hm = document.createElement("script");
+			hm.src = "https://hm.baidu.com/hm.js?ce3ec6711ed242f78d4e117a86264744";
+			var s = document.getElementsByTagName("script")[0];
+			s.parentNode.insertBefore(hm, s);
+		})();
+	</script>
+	<script>
+		var _hmt = _hmt || [];
+		(function() {
+			var hm = document.createElement("script");
+			hm.src = "https://hm.baidu.com/hm.js?f6fd1167854f1cffc4b88093e3bbea25";
+			var s = document.getElementsByTagName("script")[0];
+			s.parentNode.insertBefore(hm, s);
+		})();
+	</script>
+	<script>
+		(function(b,a,e,h,f,c,g,s){b[h]=b[h]||function(){(b[h].c=b[h].c||[]).push(arguments)};
+			b[h].s=!!c;g=a.getElementsByTagName(e)[0];s=a.createElement(e);
+			s.src="//s.union.360.cn/"+f+".js";s.defer=!0;s.async=!0;g.parentNode.insertBefore(s,g)
+		})(window,document,"script","_qha",306871,false);
+	</script>
+</head>
+<body>
+	<!-- 头部区域开始 -->
+	<header class="top-bar">
+		<div class="header-top"></div>
+		<div class="header-center container clearfix">
+			<div class="logo fl">
+				<a href="index.html" class="logo">
+					<img src="images/logo.png" alt="酷小二"/>
+				</a>
+			</div>
+			<div class="phone-call fl">
+				<p id="phone-call-1">‭400-100-3669‬</p>
+				<p id="phone-call-2">‭028-6010-6111‬‬</p>
+			</div>
+			<div class="nav-select">
+				<ul class="nav-menu clearfix">
+					<li class="fl li_a"><a class="select-a" href="./index.html">天猫入驻</a></li>
+					<li class="fl li_c"><a class="select-c" href="./proxyOperationTmall.html">天猫代运营</a></li>
+					<li class="fl li_b"><a class="select-b" href="./jdin.html">京东入驻</a></li>
+					<li class="fl li_d"><a class="select-d" href="./proxyOperationJD.html">京东代运营</a></li>
+					<li class="fl li_e"><a class="select-e" href="./aboutMe.html">关于我们</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="header-down"></div>
+	</header>
+	<!-- 头部区域结束 -->
+
+	<div class="nullBox container"></div>
+
+	<!-- 主体区域开始 -->
+	<section class="main clearfix">
+		<!-- banner 区域开始 -->
+		<div class="bannerBG">
+            <div id="bannerShutter" class="shutter">
+                <div class="shutter-img">
+                    <a href="javascript:void(0)" data-shutter-title=""><img src="images/banner1.jpg" alt="酷小二天猫入驻、京东入驻、企业式一站服务"></a>
+                    <a href="javascript:void(0)" data-shutter-title=""><img src="images/banner2.jpg" alt="酷小二天猫入驻、京东入驻、企业式一站服务"></a>
+                    <a href="javascript:void(0)" data-shutter-title=""><img src="images/banner3.jpg" alt="酷小二天猫入驻、京东入驻、企业式一站服务"></a>
+                </div>
+                <ul class="shutter-btn">
+                    <li class="prev"></li>
+                    <li class="next"></li>
+                </ul>
+				<div class="banner container">
+					<div class="div-i-advisory" style="background-color:#ffffff; opacity:0.5;" onclick="">
+					</div>
+					<a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank" name="footer">
+						<div class="div-i-advisory" onclick="">
+							我要咨询
+						</div>
+					</a>
+					<!--<div class="div-i-advisory" onclick="">-->
+						<!--<p>我要咨询</p>-->
+					<!--</div>-->
+					<div class="div-i-entering"  style="background-color:#ffffff; opacity:0.5;" onclick="">
+					</div>
+					<a href="#submit-inBG" name="footer">
+						<div class="div-i-entering">
+							<!--<p>我要入驻</p>-->
+							我要入驻
+						</div>
+					</a>
+					<!--<div class="div-i-entering">-->
+						<!--&lt;!&ndash;<p>我要入驻</p>&ndash;&gt;-->
+						<!--<a href="#submit-inBG" name="footer">我要入驻</a>-->
+					<!--</div>-->
+				</div>
+            </div>
+		</div>
+		<!-- banner 区域结束 -->
+
+		<!-- 轮播案例 区域开始 -->
+		<div class="smallScrollPage">
+			<div class="scrollTop">
+				<p>成交案例</p>
+			</div>
+			<div id="scrollCenter" class="scrollCenter">
+				<div id="scrollInfo"></div>
+			</div>
+			<a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+				<div class="scrollDown">
+					立即咨询
+				</div>
+			</a>
+		</div>
+		<!-- 轮播案例 区域结束 -->
+
+		<!-- 天猫黑名单查询 区域开始-->
+        <div class="blacklistQuery container">
+			<div class="queryAreaText">
+				<p id="queryTextOne">Come here to realize your dream</p>
+				<p id="queryTextTwo">天猫黑名单查询功能</p>
+			</div>
+            <div class="queryArea">
+                <div class="leftBox clearfix">
+                    <div class="queryImg fl"></div>
+                    <input id="inputCompany" class="fl" type="text" placeholder="请输入品牌/公司名称">
+                </div>
+                <div class="rightBox" onclick='document.getElementById("submitQuery").style.display="block"'>
+                    <p id="freeQuery">免费查询</p>
+                </div>
+            </div>
+			<div id="submitQuery" class="submitQuery">
+				<h2 id="submitQueryTitle">免费查询</h2>
+				<button id="closeBtn" type="button" onclick='document.getElementById("submitQuery").style.display="none"'>X</button>
+				<form action="submitQuery" method="post" id="fromSubmitQuery">
+					<input name="userName" id="submitQueryName" type="text" placeholder="姓名：">
+					<input name="userNumber" id="submitQueryNumber" type="text" placeholder="电话：">
+					<input name="userBrandName" id="submitQueryBrandName" type="text" placeholder="品牌名：">
+					<input name="userArea" id="submitQueryArea" type="text" placeholder="地区：">
+					<input type="submit" id="submitQueryBtn" name="submitInfo" value="提交">
+				</form>
+ 			</div>
+        </div>
+		<!-- 天猫黑名单查询 区域结束-->
+
+        <!-- 入驻商城，您是否也遇到这些问题 区域开始-->
+        <div class="inEnterTroubleBG">
+            <div class="inEnterTrouble container">
+                <p id="inEnterTextOne" class="animated" data-animtype="tada">入驻商城，您是否也遇到这些问题？</p>
+                <p id="inEnterTextTwo" class="animated" data-animtype="fadeInUp">天猫入驻繁琐的流程费时又费力，多次入驻失败都打乱计划，招商不够开放，</p>
+                <p id="inEnterTextThree" class="animated" data-animtype="fadeInUp">使之天猫入驻多次无门，淘宝的低流量又终日得不到改善。</p>
+                <div class="troubleInfo">
+                    <div class="oneTroubleBox stepTrouble1 animated" data-animtype="zoomInUp">
+                        <div class="text">
+                            <p class="title">品牌评估</p>
+                            <p class="desInfo">提交被秒拒，品牌评估过不了，品牌市场影响力不符合天猫的定位，店铺综合实力不符合。</p>
+                        </div>
+                    </div>
+                    <div class="oneTroubleBox stepTrouble2 animated" data-animtype="zoomInUp">
+                        <div class="text">
+                            <p class="title">天猫初审</p>
+                            <p class="desInfo">品牌过了，总是在初审遇见失败，不清楚原因，开店主体存在风险，天猫不予以通过！</p>
+                        </div>
+                    </div>
+                    <div class="oneTroubleBox stepTrouble3 animated" data-animtype="zoomInUp">
+                        <div class="text">
+                            <p class="title">90天限制</p>
+                            <p class="desInfo">多次提交失败，提交后显示90天限制，开店公司在审核当中，没在天猫品牌池，各种原因让人望猫兴叹！</p>
+                        </div>
+                    </div>
+                    <div class="oneTroubleBox stepTrouble4 animated" data-animtype="zoomInUp">
+                        <div class="text">
+                            <p class="title">成功率低</p>
+                            <p class="desInfo">审核超时不明白，大量的时间都在排除审核，下店率低，完成了所有的流程还是被无情拒绝，甚至直接进入天猫黑名单!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- 入驻商城，您是否也遇到这些问题 区域结束-->
+
+		<!-- 全方位入驻优势 区域开始 -->
+		<div class="all-position container">
+			<div class="all-pos-top animated" data-animtype="bounceIn">
+				<p id="all-one">全方位入驻服务优势</p>
+				<p id="all-two">一对一服务，入驻无忧，入驻成功再收费</p>
+			</div>
+			<div class="title-vs">
+				<div class="kuxiaoer-in animated" data-animtype="fadeInLeft">酷小二入驻</div>
+				<div class="vs animated" data-animtype="fadeIn"  data-animdelay = "500ms">VS</div>
+				<div class="normal-in animated" data-animtype="fadeInRight">普通商家入驻</div>
+			</div>
+			<div class="vs-info animated" data-animtype="flipInY"></div>
+		</div>
+		<!-- 全方位入驻优势 区域结束 -->
+
+		<!-- 天猫入驻服务流程 区域开始 -->
+		<div class="tmall-in-processBG">
+			<div class="tmall-in-process container animated" data-animtype="flipInX">
+				<p class="textOne">天猫入驻服务流程</p>
+				<p class="textTwo">Tianmao Residence Service Process</p>
+				<p class="textThree">专业一站式服务 / 下店后付款 / 轻松看懂天猫入驻</p>
+				<div class="stepBox">
+					<div class="stepInfo stepOne">
+						<p class="one">阶段一</p>
+						<p class="two">入驻申请</p>
+					</div>
+					<div class="stepInfo stepTwo">
+						<p class="one">阶段二</p>
+						<p class="two">审核</p>
+					</div>
+					<div class="stepInfo stepThree">
+						<p class="one">阶段三</p>
+						<p class="two">完善店铺信息</p>
+					</div>
+					<div class="stepInfo stepFour">
+						<p class="one">阶段四</p>
+						<p class="two">开店</p>
+					</div>
+				</div>
+				<div class="line1">
+					<div class="line2"></div>
+				</div>
+
+				<div id="detailedStep">
+					<div id="_1_1"></div>
+					<div id="_1_2"></div>
+					<div id="_1_3"></div>
+
+					<div id="_2_1"></div>
+					<div id="_2_2"></div>
+
+					<div id="_3_1"></div>
+					<div id="_3_2"></div>
+					<div id="_3_3"></div>
+
+					<div id="_4_1"></div>
+					<div id="_4_2"></div>
+					<div id="_4_3"></div>
+				</div>
+				<script>
+					var detailedSteps = document.getElementById('detailedStep').getElementsByTagName('div');
+					for (var i = 0; i < detailedSteps.length; i++) {
+						var curDiv = detailedSteps[ i ];
+						curDiv.style.position = "absolute";
+						curDiv.style.background = "url(./images/Process/" + curDiv.id + ".png) center center no-repeat";
+						curDiv.onmouseover = function() {
+							this.style.background = "url(./images/Process/" + this.id + "_on.png) center center no-repeat";
+						};
+						curDiv.onmouseout = function() {
+							this.style.background = "url(./images/Process/" + this.id + ".png) center center no-repeat";
+						};
+					}
+				</script>
+			</div>
+		</div>
+		<!-- 天猫入驻服务流程 区域结束 -->
+
+		<!-- 专业天猫全类目强势入驻 区域开始-->
+		<div class="all-category container">
+			<div class="top-box">
+				<p id="category_one"class="animated" data-animtype="zoomIn">专业天猫全类目强势入驻</p>
+				<p id="category_two"class="animated" data-animtype="fadeInUp">行业TOP级店铺操盘手一对一沟通运营计划</p>
+			</div>
+			<div class="down-box">
+				<ul class="all-table-1 clearfix animated" data-animtype="bounceInLeft">
+					<a href="http://p.qiao.baidu.com/cps/chat?sit3285934&useId=1erId=27548777" target="_blank"><li class="fl li_a"><p>男女服饰</p></li></a>
+					<a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank"><li class="fl li_b"><p>鞋类箱包</p></li></a>
+					<a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank"><li class="fl li_c"><p>母婴</p></li></a>
+					<a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank"><li class="fl li_d"><p>食品保健医疗</p></li></a>
+					<a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank"><li class="fl li_e"><p>运动户外</p></li></a>
+					<a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank"><li class="fl li_f"><p>家装家居家纺</p></li></a>
+					<a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank"><li class="fl li_g"><p>居家用品</p></li></a>
+				</ul>
+				<ul class="all-table-2 clearfix animated" data-animtype="bounceInRight">
+					<a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank"><li class="fl li_a"><p>化妆品</p></li></a>
+					<a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank"><li class="fl li_b"><p>3C数码</p></li></a>
+					<a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank"><li class="fl li_c"><p>图书音像</p></li></a>
+					<a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank"><li class="fl li_d"><p>珠宝</p></li></a>
+					<a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank"><li class="fl li_e"><p>汽车及配件</p></li></a>
+					<a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank"><li class="fl li_f"><p>家用电器</p></li></a>
+					<a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank"><li class="fl li_g"><p>更多类目</p></li></a>
+				</ul>
+			</div>
+		</div>
+		<!-- 专业天猫全类目强势入驻 区域结束-->
+
+		<!-- 酷小二 提交入驻需求 区域开始 -->
+		<div id="submit-inBG" class="submit-inBG">
+			<div class="submit-in container">
+				<div class="all-pos-top animated" data-animtype="flipInX">
+					<p id="kuxiaoer-text-one">酷小二，不止帮您下店筑造电商梦</p>
+					<p id="kuxiaoer-text-two">也是您的左膀右臂陪您圆梦</p>
+				</div>
+				<div class="all-input">
+					<!-- 选择入驻平台 -->
+					<select id="select-in-type" class="select-in-type opacity animated" data-animtype="flipInX">
+						<option value ="none">选择入驻平台</option>
+						<option value ="tmall">天猫入驻</option>
+						<option value ="jd">京东入驻</option>
+					</select>
+					<!-- 您的电话 -->
+					<input id="youPhone" class="opacity animated"  data-animtype="flipInX" type="text" name="youPhone" placeholder="您的电话" tabindex="1">
+					<!-- 您的 QQ -->
+					<input id="youQQ" class="opacity animated"  data-animtype="flipInX" type="text" name="youQQ" placeholder="您的 QQ" tabindex="2">
+					<!-- 请输入您的描述...... -->
+					<!-- <input id="youDescription" type="text" name="youDescription" placeholder="请输入您的描述......" tabindex="3"> -->
+					<textarea id="youDescription" class="opacity animated"  data-animtype="flipInX" name="youDescription" cols="40" rows="8" placeholder="请输入您的描述......"></textarea>
+					<button class="btn-submit animated"  data-animtype="flipInX" onclick="submitEnterPost()">提交入驻需求</button>
+				</div>
+			</div>
+		</div>
+		<!-- 酷小二 提交入驻需求 区域结束 -->
+	</section>
+	<!-- 主体区域结束 -->
+
+	<!-- 底部区域开始 -->
+	<footer class="footer">
+		<div class="footer-links container">
+            <div class="step_one">
+            	<a href="#">关于酷小二</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">售后政策</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">服务与支持</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">联系我们</a>
+            </div>
+            <div class="step_two">
+            	<span style="margin-right: 10px;">电话：‭400-100-3669‬</span><span style="margin-left: 10px;">QQ：3007303727</span>
+            </div>
+            <div class="step_three">
+            	<span>Copyright © 2019 <a href="http://www.miitbeian.gov.cn/" target="_blank"> 蜀ICP备19009830号-1</a> 版权所有 四川猫乐电子商务有限公司</span>
+            </div>
+        </div>
+	</footer>
+	<!-- 底部区域结束 -->
+</body>
+<script>
+	initScrollPageInfo( 100 );
+</script>
+<!--<script src="javascript/jquery.min.js"></script>-->
+<script src="javascript/velocity.js"></script>
+<script src="javascript/shutter.js"></script>
+<script>
+    $(function () {
+        var o = document.getElementById("bannerShutter");
+        var w = o.offsetWidth; //宽度
+        // if (w < 1200){
+        //     w = 1200;
+        // }
+        $('.shutter').shutter({
+            shutterW: 1920, // 容器宽度
+            shutterH: 700, // 容器高度
+            isAutoPlay: true, // 是否自动播放
+            playInterval: 10000, // 自动播放时间
+            curDisplay: 3, // 当前显示页
+            fullPage: false // 是否全屏展示
+        });
+    });
+
+    // 提交查询
+	$('#fromSubmitQuery').on('submit', function(){
+		submitQueryPost();
+		event.preventDefault(); //阻止form表单默认提交
+	});
+	function submitQueryPost () {
+		var submitQueryNumber = $("#submitQueryNumber").val();
+		if( !isMobileNumber( submitQueryNumber ) )
+			return;
+		$.ajax({
+			type: "post",
+			url: "/clientSubmit/submitQuery",
+			data: $('#fromSubmitQuery').serialize(),
+		}).success(function(message) {
+			console.log(message);
+			$('#closeBtn').click();
+			// document.getElementById("submitQuery").style.display="none";
+			if (message === 'ok')
+				alert("提交成功");
+			else {
+				alert("提交失败");
+			}
+		}).fail(function(err){
+			alert("提交失败");
+		});
+	}
+
+	function submitEnterPost () {
+		var phoneNumber = $("#youPhone").val();
+		if( !isMobileNumber( phoneNumber ) )
+			return;
+		var jsonData = {
+			selectInType: $("#select-in-type").val(),
+			youPhone: phoneNumber,
+			youQQ: $("#youQQ").val(),
+			youDescription: $("#youDescription").val()
+		};
+		$.ajax({
+			type: "post",
+			url: "/clientSubmit/submitEnter",
+			data: jsonData,
+		}).success(function(message) {
+			console.log(message);
+			if (message === 'ok')
+				alert("提交成功");
+			else {
+				alert("提交失败");
+			}
+		}).fail(function(err){
+			alert("提交失败");
+		});
+	}
+
+	setTimeout( function() {
+		if ($('#nb_invite_ok').length > 0) {
+			$('#nb_invite_ok').click();
+		}
+	}, 3000);
+
+	var system ={};
+	var p = navigator.platform;
+	system.win = p.indexOf("Win") == 0;
+	system.mac = p.indexOf("Mac") == 0;
+	system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);
+	if(system.win||system.mac||system.xll){//如果是电脑跳转到
+		//
+	}else{  //如果是手机,跳转到
+		window.location.href="http://m.xiaoervip.com";
+	}
+</script>
+</html>
+<script type="text/javascript" src="http://z1-pcok6.kuaishangkf.com/bs/ks.j?cI=588576&fI=135502" charset="utf-8"></script>

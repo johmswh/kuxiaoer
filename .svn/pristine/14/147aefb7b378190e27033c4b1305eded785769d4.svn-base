@@ -1,0 +1,5 @@
+var ServerConf= {
+    ApiHost: "", //后台链接api
+    ServicePort:80
+};
+module.exports=ServerConf;

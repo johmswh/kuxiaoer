@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1,IE=10, IE=9, IE=8"/>
+    <meta name="renderer" content="webkit|ie-stand|ie-comp" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!--<title>酷小二企业服务天猫入驻</title>-->
+    <title><%= title %></title>
+    <meta name="keywords" content="天猫入驻,天猫商城入驻,天猫商城入驻代理,天猫入驻代理,网店入驻,网店入驻代理" />
+    <meta name="title" content="天猫入驻_天猫商城入驻_网店入驻代理-一站式电商服务平台酷小二">
+    <meta name="description" content="酷小二是国内领先的电商服务平台,提供天猫入驻，京东入驻,企业品牌包装等电商服务，包揽全类目入驻不玩概率，入驻成功后再收费，签订企业合同法律保障，入驻网店就找酷小二。" />
+    <!-- 引入ico图标 -->
+    <link rel="shortcut icon" href="../favicon.ico" />
+
+    <link rel="stylesheet" type="text/css" href="../css/entertwo/reset.css" />
+    <link rel="stylesheet" type="text/css" href="../css/entertwo/animate.css" />
+    <link rel="stylesheet" type="text/css" href="../css/entertwo/animation.css" />
+    <link rel="stylesheet" type="text/css" href="../css/entertwo/generationin.css" />
+    <script type="text/javascript" src="../javascript/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="../javascript/animation.js"></script>
+    <script type="text/javascript" src="../javascript/utils.js"></script>
+    <!-- <script type="text/javascript" src="../javascript/home/jquery.SuperSlide.2.1.1.js"></script>
+    <script type="text/javascript" src="../javascript/home/jquery.placeholder.js"></script>
+    <script type="text/javascript" src="../javascript/home/jquery.nav.js"></script>
+    <script src="../javascript/home/swiper.js"></script> -->
+<!--     <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?1e442cc73bb7c42c0cd8900d15736537";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?f6fd1167854f1cffc4b88093e3bbea25";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script> -->
+</head>
+
+<body>
+    <div class="header-wrap">
+        <div class="box header"><a href="entertwo.html" class="logo"></a>
+            <div class="nav">
+                <div class="top" align="center">
+                    <a onclick="tanchu()"><img src="../../images/kefu.png"><br/>
+                    <span class="text-info" style="font-size:18px; ">客服</span></a>
+                </div>
+                <li class="active"><a href="entertwo.html" style="padding-top: 2px;"><span>首页</span></a></li>
+                <li><a href="#section2" style="padding-top: 5px;" >入驻<br/>类目</a></li>
+                <li><a href="#section3" style="padding-top: 5px;">入驻<br/>流程</a></li>
+                <li><a href="#section4" style="padding-top: 5px;">平台<br/>优势</a></li>
+                <li><a href="#section5" style="padding-top: 5px;">成功<br/>案例</a></li>
+                <li><a href="#section7" style="padding-top: 5px;">提交<br/>需求</a></li>
+                <li><a href="entertwo.html" style="padding-top: 5px;">^<br/>顶部</a></li>
+            </div>
+
+            <div class="header-tel">
+                <div class="header-telleft"><img src="../../images/entertwo/box7/telphone_icon.png"></div>
+                
+                <span class="header-telright">400-100-3669<p style="font-size: 15px;color:#fff;">028-6010-6111</p></span>
+            </div>
+        </div>
+    </div>
+    <div class="section section-1-wrap" id="section1">
+        <div class="box section-1">
+            <div class="btn-list">
+                <div class="btn-box">
+                    <a href="#section7" class="entry">我要入驻</a>
+                    <a href="https://rytk20.kuaishang.cn/bs/im.htm?cas=122918___874793&fi=125383" target="_blank" class="advisory">我要咨询</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section section-2-wrap" id="section2">
+        <div class="box section-2">
+            <div class="tit1">全类目商城多平台强势入驻不成功不收费</div>
+            <div class="tit2">天猫、京东等商城全类目皆可入驻，企业信息独家品牌包装打造</div>
+            <div class="search">
+                <input name="" type="text" placeholder="输入想入驻的类目，提交后获取报价" class="inp" />
+                <input name="" type="button" class="btn tLink-2" onclick='document.getElementById("submitQuery").style.display="block"'/>
+            </div>
+            <div id="submitQuery" class="submitQuery">
+                <h2 id="submitQueryTitle">获取报价</h2>
+                <button id="closeBtn" type="button" onclick='document.getElementById("submitQuery").style.display="none"'>X</button>
+                <form action="submitQuery" method="post" id="fromSubmitQuery">
+                    <input name="userName" id="submitQueryName" type="text" placeholder="姓名：">
+                    <input name="userNumber" id="submitQueryNumber" type="text" placeholder="电话：">
+                    <input name="userBrandName" id="submitQueryBrandName" type="text" placeholder="品牌名：">
+                    <input name="userArea" id="submitQueryArea" type="text" placeholder="地区：">
+                    <input type="submit" id="submitQueryBtn" name="submitInfo" value="提交">
+                </form>
+            </div>
+            <div class="list1">
+                <ul>
+                    <li class="on animated" data-animtype="bounceIn">
+                        <a href="javascript:void(0)">
+                            <div class="photo"><img src="../images/entertwo/box2/tmall_active.png" /></div>
+                        </a>
+                    </li>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="javascript:void(0)">
+                            <div class="photo"><img src="../images/entertwo/box2/jd.png" /></div>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="list2">
+                <ul>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+                            <div class="icon icon0"></div>
+                        </a>
+                    </li>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+                            <div class="icon icon1"></div>
+                        </a>
+                    </li>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+                            <div class="icon icon2"></div>
+                        </a>
+                    </li>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+                            <div class="icon icon3"></div>
+                        </a>
+                    </li>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+                            <div class="icon icon4"></div>
+                        </a>
+                    </li>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+                            <div class="icon icon5"></div>
+                        </a>
+                    </li>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+                            <div class="icon icon6"></div>
+                        </a>
+                    </li>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+                            <div class="icon icon7"></div>
+                        </a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+                            <div class="icon icon0"></div>
+                        </a>
+                    </li>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+                            <div class="icon icon1"></div>
+                        </a>
+                    </li>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+                            <div class="icon icon2"></div>
+                        </a>
+                    </li>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+                            <div class="icon icon3"></div>
+                        </a>
+                    </li>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+                            <div class="icon icon4"></div>
+                        </a>
+                    </li>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+                            <div class="icon icon5"></div>
+                        </a>
+                    </li>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+                            <div class="icon icon6"></div>
+                        </a>
+                    </li>
+                    <li class="animated" data-animtype="bounceIn">
+                        <a href="http://p.qiao.baidu.com/cps/chat?siteId=13310628&userId=27741681" target="_blank">
+                            <div class="icon icon7"></div>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="section section-3-wrap" id="section3">
+        <div class="box section-3">
+            <div class="tit1 animated" data-animtype="fadeInDown">商城代入驻服务流程</div>
+            <div class="tit2 animated" data-animtype="fadeInDown">INTO THE MALL IN THE PROCESS</div>
+            <div class="tit3 animated" data-animtype="fadeInUp">一站式入驻服务，专业、高效、品牌保障、玩转电商行业</div>
+            <div class="part-three-box animated" data-animtype="bounceIn">
+                <div class="part-three">
+                    <ul class="list-box">
+                        <li class="list-item">
+                            <div class="polygon_icon step">
+                                <span class="step_icon"></span>
+                            </div>
+                        </li>
+                        <li class="list-item">
+                            <div class="polygon_icon step1">
+                                <span class="step_icon step1"></span>
+                            </div>
+                            <div class="polygon_icon step2">
+                                <span class="step_icon step2"></span>
+                            </div>
+                        </li>
+                        <li class="list-item">
+                            <div class="polygon_icon step3">
+                                <span class="step_icon step3"></span>
+                            </div>
+                            <div class="polygon_icon step4">
+                                <span class="step_icon step4"></span>
+                            </div>
+                        </li>
+                        <li class="list-item">
+                            <div class="polygon_icon step5">
+                                <span class="step_icon step5"></span>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section section-4-wrap" id="section4">
+        <div class="box section-4">
+            <div class="tit1 animated" data-animtype="fadeInDown">为什么选择酷小二？</div>
+            <div class="tit2 animated" data-animtype="fadeInUp">安全、快捷、无忧、高质量入驻天猫、京东等商城</div>
+            <div class="section-4-list">
+                <div class="content-box left">
+                    <p class="title animated" data-animtype="zoomInLeft">酷小二<span class="special-text">入驻服务</span></p>
+                    <ul class="content-list left">
+                        <li class="list-item animated" data-animtype="zoomInLeft">独家品牌包装 不玩概率</li>
+                        <li class="list-item animated" data-animtype="zoomInLeft">Top级运营定专属计划书</li>
+                        <li class="list-item animated" data-animtype="zoomInLeft">签订合同，下单后再付款，0风险</li>
+                        <li class="list-item animated" data-animtype="zoomInLeft">远程操作更透明、更放心</li>
+                        <li class="list-item animated" data-animtype="zoomInLeft">三年入驻经验，专业标准化操作</li>
+                        <li class="list-item animated" data-animtype="zoomInLeft">赠送：下店后行业Top级运营大神在线指导</li>
+                    </ul>
+                </div>
+                <div class="middel-box">
+                    <p class="vs-icon animated" data-animtype="zoomIn"></p>
+                    <ul class="middle-list">
+                        <li class="list-item animated" data-animtype="zoomIn">拒绝概率</li>
+                        <li class="list-item animated" data-animtype="zoomIn">更专业</li>
+                        <li class="list-item animated" data-animtype="zoomIn">更安全</li>
+                        <li class="list-item animated" data-animtype="zoomIn">更放心</li>
+                        <li class="list-item animated" data-animtype="zoomIn">更专业</li>
+                        <li class="list-item animated" data-animtype="zoomIn">更用心</li>
+
+                    </ul>
+                </div>
+                <div class="content-box right">
+                    <p class="title animated" data-animtype="zoomInRight">其他<span class="special-text">入驻服务</span></p>
+                    <ul class="content-list right">
+                        <li class="list-item animated" data-animtype="zoomInRight">超高收费标准玩概率下店</li>
+                        <li class="list-item animated" data-animtype="zoomInRight">普通文员一天写十多个入驻PPT</li>
+                        <li class="list-item animated" data-animtype="zoomInRight">直接操作玩概率，多次提交入选天猫黑名单</li>
+                        <li class="list-item animated" data-animtype="zoomInRight">私用客户资料，告知客户没提交</li>
+                        <li class="list-item animated" data-animtype="zoomInRight">因操作失误导致入驻失败</li>
+                        <li class="list-item animated" data-animtype="zoomInRight">不关注店铺后续发展</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section section-5-wrap" id="section5">
+        <div class="box section-5">
+            <div class="tit1 animated" data-animtype="fadeInDown">入驻成功案例</div>
+            <div class="tit2 animated" data-animtype="fadeInDown">Successful case</div>
+            <div class="list" id="list">
+                <span class="leftArrow swiper-pagination" id="leftArrow"></span>
+                <div class="images-box">
+                    <ul class="images-items">
+                        <li class="images-list"><a href="javascript:void(0)" target="_blank"><img src="../images/entertwo/box5/fushi.png" alt=""></a></li>
+                        <li class="images-list"><a href="javascript:void(0)" target="_blank"><img src="../images/entertwo/box5/3Cshuma.png" alt=""></a></li>
+                        <li class="images-list"><a href="javascript:void(0)" target="_blank"><img src="../images/entertwo/box5/huwaiyundong.png" alt=""></a></li>
+                        <li class="images-list"><a href="javascript:void(0)" target="_blank"><img src="../images/entertwo/box5/jiaju.png" alt=""></a></li>
+                        <li class="images-list"><a href="javascript:void(0)" target="_blank"><img src="../images/entertwo/box5/muyin.png" alt=""></a></li>
+                        <li class="images-list"><a href="javascript:void(0)" target="_blank"><img src="../images/entertwo/box5/wanju.png" alt=""></a></li>
+                    </ul>
+                </div>
+                <span class="rightArrow swiper-pagination" id="rightArrow"></span>
+            </div>
+        </div>
+    </div>
+    <div class="section section-7-wrap" id="section7">
+        <div class="box section-7">
+            <div class="tit1 animated" data-animtype="fadeInDown">酷小二、快速通道、下店有保障</div>
+            <div class="tit2 animated" data-animtype="fadeInUp">专业提供天猫、京东等商场入驻服务</div>
+            <div class="infomation-box">
+                <div class="info-box">
+                    <div class="form-box">
+                        <div class="info-top-box animated" data-animtype="bounceIn">
+                            <div class="left-input">
+                                <input id="youName" class="input" type="text" name="youName" placeholder="您的姓名:">
+                                <input id="youPhone" class="input" type="text" name="youPhone" placeholder="您的电话:">
+                                <input id="youWX" class="input" type="text" name="youWX" placeholder="您的微信:">
+                            </div>
+                            <div class="center-textarea">
+                                <textarea name="youDescription" id="youDescription" placeholder="请输入您的需求:"></textarea>
+                                <div class="center-submit" data-animtype="flipInX">
+                                    <button class="submit"  data-animtype="flipInX" onclick="submitEnterPost()">提 交</button>
+                                </div>
+                            </div>
+                          <!--   <div class="submit-btn" data-animtype="flipInX"> -->
+                                <!--<input class="submit" type="submit" value="提交">-->
+                            <div class="right-textarea">
+                                <span class="center-img" align="center"><img src="../../images/entertwo/box7/address_icon.png"></span>
+                                <span class="text-info">四川省成都市天府三街峰汇中心</span>
+<!--                                 <span class="center-img" align="center"><img src="../../images/entertwo/box7/telphone_icon.png"></span>
+                                <span class="text-info">400-100-3669<p style="font-size: 15px;color:#fff;">028-6010-6111</p></span> -->
+                                <span class="center-img" align="center"><a target="view_window" href="../../images/entertwo/zhizhao.png"><img style="width: 172px;height: 40px;" src="../../images/entertwo/yyzz.png"></a></span>
+                                <span class="center-img" align="center"><a target="view_window" href="https://baike.shuidi.cn/companywiki-aac61e23d2d629d4908b4e45b8a9a201.html"><img style="width: 172px;height: 40px;" src="../../images/entertwo/renzheng.png"></a></span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        var arrOfJson = [
+            {   //  1
+                width: 200,
+                top: 100,
+                left: 50,
+                opacity: 0.2,
+                "z-index": 2
+            },
+            {  // 2
+                width: 300,
+                top: 80,
+                left: 100,
+                opacity: 0.8,
+                "z-index": 3
+            },
+            {   // 3
+                width: 350,
+                top: 60,
+                left: 350,
+                opacity: 1,
+                "z-index": 4
+            },
+            {  // 4
+                width: 300,
+                top: 80,
+                left: 600,
+                opacity: 0.8,
+                "z-index": 3
+            },
+            {   //5
+                "width": 200,
+                "top": 100,
+                "left": 750,
+                "opacity": 0.2,
+                "z-index": 2
+            },
+            {   //5
+                "width": 200,
+                "top": 100,
+                "left": 400,
+                "opacity": 0.2,
+                "z-index": 2
+            }
+        ];
+        var slide = document.getElementById("list");
+        var liArr = document.querySelectorAll(".images-list")
+        var next = document.getElementById("rightArrow");
+        var prev = document.getElementById("leftArrow")
+        var flag = true;
+        var timer133 = null;
+        autoPlay();
+        timer133 = setInterval(function () {
+            autoPlay(true);
+        }, 2500);
+        slide.onmouseenter = function () {
+            clearInterval(timer133);
+        }
+        slide.onmouseleave = function () {
+            timer133 = setInterval(function () {
+                autoPlay(true);
+            }, 2500);
+        }
+        next.onclick = function () {
+            if (flag) {
+                autoPlay(true);
+                flag = false;
+            }
+        }
+        prev.onclick = function () {
+            autoPlay(false);
+        }
+
+        function autoPlay(bool) {
+            if (bool !== undefined) {
+                if (bool) {
+                    arrOfJson.push(arrOfJson.shift());
+                } else {
+                    arrOfJson.unshift(arrOfJson.pop());
+                }
+            }
+            for (var i = 0; i < liArr.length; i++) {
+                animate(liArr[i], arrOfJson[i], function () {
+                    flag = true;
+                });
+            }
+        }
+        function animate(ele, json, fn) {
+            clearInterval(ele.timer);
+            ele.timer = setInterval(function () {
+                var bool = true;
+                for (var k in json) {
+                    if (k === "z-index") {
+                        ele.style.zIndex = json[k];
+                    } else if (k === "opacity") {
+                        if (getStyle(ele, k) === "0") {
+                            var leader = 0;
+                        } else {
+                            var leader = parseInt(getStyle(ele, k) * 10) || 10;
+                        }
+                        var step = (parseInt(json[k] * 10) - leader) / 10;
+                        step = step > 0 ? Math.ceil(step) : Math.floor(step);
+                        leader = leader + step;
+                        ele.style.opacity = leader / 10;
+                        ele.style.filter = "alpha(opacity=" + leader * 10 + ")";
+                        if (json[k] !== leader / 10) {
+                            bool = false;
+                        }
+                    } else {
+                        var leader = parseInt(getStyle(ele, k)) || 0;
+                        var step = (json[k] - leader) / 10;
+                        step = step > 0 ? Math.ceil(step) : Math.floor(step);
+                        leader = leader + step;
+                        ele.style[k] = leader + "px";
+                        //没有到达指定位置，不允许清除定时器
+                        if (json[k] !== leader) {
+                            bool = false;
+                        }
+                    }
+                }
+                if (bool) {
+                    clearInterval(ele.timer);
+                    if (fn) {
+                        fn();
+                    }
+                }
+            }, 30);
+        }
+        function getStyle(ele, attr) {
+            if (window.getComputedStyle) {
+                return window.getComputedStyle(ele, null)[attr];
+            } else {
+                return ele.currentStyle[attr];
+            }
+        }
+        var imgArr=[
+            {
+                normal:'tmall.png',
+                active:'tmall_active.png'
+            },
+            {
+                normal:'jd.png',
+                active:'jd_active.png'
+            }
+        ]
+        $(".list1 li").unbind("click").click(function () {
+            var index = $(this).index();
+            $(".list2 ul").eq($(this).index()).show().siblings().hide()
+            $(this).addClass('on').siblings().removeClass('on');
+            if(index==0){
+                $(this).find('img').attr('src','../images/entertwo/box2/'+imgArr[index]['active']);
+                $(this).siblings('li').find('img').attr('src','../images/entertwo/box2/'+imgArr[1]['normal'])
+            }else if(index==1){
+                $(this).find('img').attr('src','../images/entertwo/box2/'+imgArr[index]['active']);
+                $(this).siblings('li').find('img').attr('src','../images/entertwo/box2/'+imgArr[0]['normal'])
+            }
+        })
+
+    </script>
+    <script>
+        $(function () {
+            if ($.browser.msie) {
+                $(":input[placeholder]").each(function () {
+                    $(this).placeholder({ posL: 0 });
+                });
+
+            }
+        });
+
+    </script>
+    <script>
+        $(function () {
+            $(".header-menu li a").click(function () {
+                var hr = $(this).attr("href");
+                var anh = $(hr).offset().top;
+                $("html,body").stop().animate({ scrollTop: anh }, 2000);
+                $(this).parent().addClass("active").siblings().removeClass("active")
+            });
+
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > 80) {
+                    // $(".bottom-wrap").show();
+                    $(".header-wrap").addClass("fixed")
+                } else {
+                    // $(".bottom-wrap").hide();
+                    $(".header-wrap").removeClass("fixed")
+                }
+            });
+
+        })
+
+    </script>
+    <script>
+        // 提交查询
+        $('#fromSubmitQuery').on('submit', function(){
+            submitQueryPost();
+            event.preventDefault(); //阻止form表单默认提交
+        });
+        function submitQueryPost () {
+            var submitQueryNumber = $("#submitQueryNumber").val();
+            if( !isMobileNumber( submitQueryNumber ) )
+                return;
+            $.ajax({
+                type: "post",
+                url: "/clientSubmit/submitQuery",
+                data: $('#fromSubmitQuery').serialize(),
+            }).success(function(message) {
+                console.log(message);
+                $('#closeBtn').click();
+                // document.getElementById("submitQuery").style.display="none";
+                if (message === 'ok')
+                    alert("提交成功");
+                else {
+                    alert("提交失败");
+                }
+            }).fail(function(err){
+                alert("提交失败");
+            });
+        }
+
+        function submitEnterPost () {
+            var phoneNumber = $("#youPhone").val();
+            if( !isMobileNumber( phoneNumber ) )
+                return;
+            var jsonData = {
+                userName: $("#youName").val(),
+                youPhone: phoneNumber,
+                youWX: $("#youWX").val(),
+                youDescription: $("#youDescription").val()
+            };
+
+            $.ajax({
+                type: "post",
+                url: "/clientSubmit/submitEnter",
+                data: jsonData,
+            }).success(function(message) {
+                console.log(message);
+                if (message === 'ok')
+                    alert("提交成功");
+                else {
+                    alert("提交失败");
+                }
+            }).fail(function(err){
+                alert("提交失败");
+            });
+        }
+
+    </script>
+    <script>
+        $(function () {
+            $(".header-menu li a").click(function () {
+                var hr = $(this).attr("href");
+                var anh = $(hr).offset().top;
+                $("html,body").stop().animate({ scrollTop: anh }, 2000);
+                $(this).parent().addClass("active").siblings().removeClass("active");
+            })
+        })
+        
+        function tanchu(){
+            window.open("https://rytk20.kuaishang.cn/bs/im.htm?cas=122918___874793&fi=125383");
+        }
+
+        setTimeout( function() {
+            if ($('#nb_invite_ok').length > 0) {
+                $('#nb_invite_ok').click();
+            }
+        }, 3000);
+    </script>
+</body>
+</html>
+<script type="text/javascript" src="https://rytk20.kuaishang.cn/bs/ks.j?cI=874793&fI=125383" charset="utf-8"></script>

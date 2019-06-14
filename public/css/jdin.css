@@ -1,0 +1,44 @@
+
+.top-bar .header-center .nav-select .li_b {
+	background-color: #c81623;
+}
+
+.top-bar .header-center .nav-select .select-b {
+    color: #fff;
+}
+
+.main .bannerBG {
+	width: 100%;
+	min-width: 1200px;
+	background: url(../images/jdIn/jdInBanner.png) center center no-repeat;
+	clear: both;
+	overflow: hidden;
+}
+
+.main .banner {
+	width: 1200px;
+	height: 800px;
+	/*background-color: red;*/
+	/*background: url(../images/jdIn/jdInBanner.png) center center no-repeat;*/
+	position: relative;
+}
+
+.main .banner .banner-info {
+	width: 1200px;
+	height: 620px;
+	position: absolute;
+	top: 50%;
+	margin-top: -310px;
+	left: 50%;
+	margin-left: -595px;
+}
+
+.main .banner .banner-info .btnClickIn {
+	width: 213px;
+	height: 92px;
+	background: url(../images/jdIn/clickIn.png) center center no-repeat;
+	position: absolute;
+	top: 500px;
+	right: 210px;
+	cursor:pointer;
+}

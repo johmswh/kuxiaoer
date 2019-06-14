@@ -1,0 +1,257 @@
+
+.top-bar .header-center .nav-select .li_c {
+	background-color: #c81623;
+}
+
+.top-bar .header-center .nav-select .select-c {
+    color: #fff;
+}
+
+.top-bar .header-center .phone-call {
+    margin-right: 180px;
+}
+
+.top-bar .header-center .nav-select li {
+    font-size: 20px;
+    padding: 0px 20px;
+    font-weight: 400;
+    line-height: 60px;
+    text-align: center;
+}
+
+.bannerBG {
+	width: 100%;
+	min-width: 1200px;
+	background: url(../images/aboutMe/banner.png) center center no-repeat;
+	clear: both;
+	overflow: hidden;
+	/*position: relative;*/
+}
+
+.banner {
+	position: relative;
+	height: 600px;
+}
+
+.banner .shaderBox {
+	width: 660px;
+	height: 280px;
+	background-color: #000;
+	opacity: .4;
+	position: absolute;
+	top: 50%;
+	margin-top: -140px;
+	left: 50%;
+	margin-left: -330px;
+}
+
+.banner #textOne {
+	width: 1200px;
+	position: absolute;
+	top: 220px;
+	font-size: 70px;
+	font-weight: 700;
+	color: #fff;
+	text-align: center;
+}
+
+.banner #textTwo {
+	width: 1200px;
+	position: absolute;
+	top: 320px;
+	font-size: 24px;
+	font-weight: 400;
+	color: #fff;
+	text-align: center;
+}
+
+.pwdBoxBG {
+	width: 100%;
+	min-width: 1200px;
+	background-color: #c9121c;
+	clear: both;
+	overflow: hidden;
+}
+
+.pwdBox {
+	height: 40px;	
+	line-height: 40px;
+	color: #fcf5f5;
+	font-size: 14px;
+}
+
+.contentInfoBox {
+	width: 100%;
+	min-width: 1200px;
+	position: relative;
+}
+
+.contentInfoBox .contentInfo {
+	height: 1227px;
+	background-color: #fff;
+	box-shadow: 1px 1px 10px #000;
+	border: 1px solid #fff;
+	position: absolute;
+	left: 50%;
+	margin-left: -600px;
+}
+
+.contentInfoBox .contentInfo .titleBox {
+	height: 135px;
+	position: relative;
+	border-bottom: 1px dashed #ccc;
+}
+
+.contentInfoBox .contentInfo .titleBox #titleOne{
+	width: 1200px;
+	position: absolute;
+	top: 40px;
+	font-size: 36px;
+	text-align: center;
+	color: #000;
+}
+
+.contentInfoBox .contentInfo .titleBox #titleTwo{
+	width: 1200px;
+	position: absolute;
+	top: 90px;
+	font-size: 18px;
+	text-align: center;
+	color: #7d7d7d;
+}
+
+.contentInfoBox .contentInfo .companyInfo {
+	margin-top: 50px;
+	width: 1100px;
+	height: 1000px;
+	font-size: 20px;
+	line-height: 35px;
+	position: absolute;
+	left: 50%;
+	margin-left: -550px;
+	/*background-color: #919191;*/
+}
+
+.contentInfoBox .contentInfo .companyInfo p{
+	text-indent:2em;
+}
+
+.contentInfoBox .contentBGTop {
+	height: 1040px;
+	background-color: #e7e7e7;
+}
+
+.contentInfoBox .contentBGDown {
+	height: 310px;
+	background-color: #c9121c;
+}
+
+.contentInfoBox .contentInfo .companyInfo .allItemInfo {
+	width: 705px;
+	height: 940px;
+	/*background-color: #a70700;*/
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.contentInfoBox .contentInfo .companyInfo .allItemInfo .itemInfo{
+	width: 100%;
+	height: 115px;
+	/*background-color: #919191;*/
+	margin-bottom: 20px;
+	position: relative;
+}
+
+.contentInfoBox .contentInfo .companyInfo .allItemInfo .itemInfo .itemIcon{
+	width: 145px;
+	height: 115px;
+	/*background-color: #347eef;*/
+	position: absolute;
+	left: 0px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.contentInfoBox .contentInfo .companyInfo .allItemInfo .itemInfo .itemIcon img {
+    display: inline-block;
+}
+
+.contentInfoBox .contentInfo .companyInfo .allItemInfo .itemInfo .itemTextInfo{
+	width: 540px;
+	height: 115px;
+	/*background-color: #347eef;*/
+	position: absolute;
+	right: 0px;
+}
+
+.contentInfoBox .contentInfo .companyInfo .allItemInfo .itemInfo .itemTextInfo .title{
+	font-size: 18px;
+	font-weight: 700;
+	color: #000000;
+	overflow:hidden;
+}
+
+.contentInfoBox .contentInfo .companyInfo .allItemInfo .itemInfo .itemTextInfo .newsInfo{
+	height: 64px;
+	font-size: 12px;
+	line-height: 18px;
+	color: #a4a4a4;
+	overflow:hidden;
+}
+
+.contentInfoBox .contentInfo .companyInfo .allItemInfo .itemInfo .itemTextInfo .newTime{
+	font-size: 15px;
+	line-height: 18px;
+    font-weight: 400;
+	color: #000000;
+	position: absolute;
+	bottom: 0px;
+	overflow:hidden;
+}
+
+.contentInfoBox .contentInfo .companyInfo .kuxiaoerNews {
+	width: 260px;
+	height: 200px;
+    font-size: 16px;
+    line-height: 22px;
+	position: absolute;
+	top: 0px;
+	right: 30px;
+    overflow: hidden;
+}
+
+.contentInfoBox .contentInfo .companyInfo .kuxiaoerNews h3 {
+    margin-bottom: 10px;
+}
+
+.contentInfoBox .contentInfo .companyInfo .industryNews {
+	width: 260px;
+	height: 720px;
+    font-size: 16px;
+    line-height: 22px;
+	position: absolute;
+	top: 220px;
+	right: 30px;
+    overflow: hidden;
+}
+
+.contentInfoBox .contentInfo .companyInfo .industryNews .topTextInfo {
+    height: 165px;
+    overflow: hidden;
+}
+
+.contentInfoBox .contentInfo .companyInfo .industryNews .topTextInfo h3 {
+    margin-bottom: 10px;
+}
+
+.contentInfoBox .contentInfo .companyInfo .industryNews .advertisingImage {
+	height: 500px;
+	position: absolute;
+	bottom: 0px;
+}
+
+.contentInfoBox .contentInfo .companyInfo .industryNews .advertisingImage img {
+	margin-top: 40px;
+	margin-left: 17px;
+}

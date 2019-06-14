@@ -1,0 +1,325 @@
+.top-bar .header-center .nav-select .li_c {
+	background-color: #c81623;
+}
+
+.top-bar .header-center .nav-select .select-c {
+    color: #fff;
+}
+
+.main .bannerBG {
+	width: 100%;
+	min-width: 1200px;
+	height: 504px;
+	background-color: red;
+	background: url(../images/tmallPorxyOperation/banner.png) center center no-repeat;
+	clear: both;
+	overflow: hidden;
+
+	animation: bounceIn 1s;
+	-webkit-animation: bounceIn 1s;
+}
+
+.main .banner {
+	width: 1200px;
+	height: 504px;
+	/*background-color: red;*/
+	/*background: url(../images/tmallPorxyOperation/banner.png) center center no-repeat;*/
+	position: relative;
+}
+
+/*.main .banner .banner-info {
+	width: 1200px;
+	height: 620px;
+	position: absolute;
+	top: 50%;
+	margin-top: -310px;
+	left: 50%;
+	margin-left: -595px;
+}
+*/
+
+.main .you-have-trouble {
+	width: 1200px;
+	height: 719px;
+	position: relative;
+}
+
+.main .you-have-trouble .troubleTop {
+	width: 1200px;
+	height: 91px;
+	background: url(../images/tmallPorxyOperation/youHaveTrouble.png) center center no-repeat;
+	position: absolute;
+	left: 50%;
+	margin-left: -595px;
+	top: 25px;
+
+	animation: zoomIn 1s;
+	-webkit-animation: zoomIn 1s;
+}
+
+.main .you-have-trouble .troubleCenter {
+	width: 1200px;
+	height: 603px;
+	position: absolute;
+	left: 50%;
+	margin-left: -595px;
+	top: 116px;
+}
+.main .you-have-trouble .troubleCenter .trouble-a {
+	width: 1200px;
+	height: 353px;
+	background: url(../images/tmallPorxyOperation/allTrouble.png) center center no-repeat;
+	position: absolute;
+	top: 30px;
+	animation: bounceInLeft 1s;
+	-webkit-animation: bounceInLeft 1s;
+}
+
+.main .you-have-trouble .troubleCenter .trouble-b {
+	width: 1200px;
+	height: 135px;
+	background: url(../images/tmallPorxyOperation/troubleResule.png) center center no-repeat;
+	position: absolute;
+	bottom: 50px;
+	animation: bounceInRight 1s;
+	-webkit-animation: bounceInRight 1s;
+}
+
+.main .solve-troubleBG {
+	width: 100%;
+	min-width: 1200px;
+	background-color: #c9121c;
+	clear: both;
+	overflow: hidden;
+}
+
+.main .solve-trouble {
+	width: 1200px;
+	height: 106px;
+	background: #c9121c url(../images/tmallPorxyOperation/solveTrouble.png) center center no-repeat;
+}
+
+.main .one-stepBG {
+	width: 100%;
+	min-width: 1200px;
+	background-color: #f7f7f7;
+	clear: both;
+	overflow: hidden;
+}
+
+.main .one-step {
+	width: 1200px;
+	height: 650px;
+	background-color: #f7f7f7;
+}
+
+.main .one-step .kuxiaoer-text {
+	text-align: center;
+	padding-top: 30px;
+	position: relative;
+}
+
+.main .one-step .kuxiaoer-text #text-one {
+	font-size: 35px;
+	font-weight: 700;
+	color: #000;
+}
+
+.main .one-step .kuxiaoer-text #text-two {
+	font-size: 14px;
+	font-weight: 700;
+	color: #9b9b9b;
+}
+
+.main .one-step .kuxiaoer-text #upArrow {
+	position: absolute;
+	top: 50px;
+	right: 290px;
+}
+
+.main .one-step .kuxiaoer-img {
+	width: 1200px;
+	height: 310px;
+	position: relative;
+}
+
+.main .one-step .kuxiaoer-img .img-one{
+	width: 620px;
+	height: 210px;
+	border: 2px solid #347eef;
+	background: url(../images/tmallPorxyOperation/kuxiaoerOne.png) center center no-repeat;
+	position: absolute;
+	left: 140px;
+	top: 40px;
+}
+
+.main .one-step .kuxiaoer-img .img-two{
+	width: 620px;
+	height: 210px;
+	border: 2px solid #347eef;
+	background: url(../images/tmallPorxyOperation/kuxiaoerTwo.png) center center no-repeat;
+	position: absolute;
+	right: 140px;
+	top: 252px;
+}
+
+.main .hostingCase {
+	width: 1200px;
+}
+
+.main .hostingCase .titleText {
+	width: 1200px;
+	height: 115px;
+}
+
+.main .hostingCase .titleText #title {
+	font-size: 35px;
+	font-weight: 900;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.main .hostingCase .titleText #des {
+	font-size: 16px;
+	font-weight: 700;
+	text-align: center;
+}
+
+.main .hostingCase .caseCenter {
+	width: 1200px;
+	height: 443px;
+	/*background-color: #ccc;*/
+	position: relative;
+    /*overflow: hidden;*/
+}
+
+.main .hostingCase .caseCenter .caseInfo {
+	width: 760px;
+	height: 359px;
+	/*background-color: blue;*/
+	position: absolute;
+	left: 50%;
+	margin-left: -380px;
+	top: 30px;
+}
+
+.js-silder{
+	position: relative;	
+	min-width: 320px;
+}
+.silder-scroll{
+	width: 100%;
+	overflow: hidden;
+}
+.silder-main{
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+}
+.silder-main-img{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+.silder-main-img img{
+	width: 100%;
+}
+.js-silder-ctrl{
+	width: 100%;
+	text-align: center;
+}
+.silder-ctrl-prev,
+.silder-ctrl-next{
+	position: absolute;
+	top: 0;
+	width: 8%;
+	height: 100%;
+	vertical-align: middle;
+	cursor: pointer;
+	color: #000;
+	font-family: "宋体";
+	font-size: 52px;
+	font-weight: 600;
+	text-shadow: #666 2px 2px 5px;
+}
+.silder-ctrl-prev{
+	left: -80px;
+	text-align: left;
+}
+.silder-ctrl-next{
+	right: -80px;
+	text-align: right;
+}
+.silder-ctrl-prev>span,
+.silder-ctrl-next>span{
+	position: absolute;
+	top: 50%;
+	margin-top: -40px;
+}
+.silder-ctrl-prev>span{
+	left: 0;
+}
+.silder-ctrl-next>span{
+	right: 0;
+}
+.silder-ctrl-con{
+	display: inline-block;
+	width: 4%;
+	padding: 10px 0;
+	margin: 0 10px;
+	cursor: pointer;
+}
+.silder-ctrl-con>span{
+	display: block;
+	line-height: 0;
+	text-indent: -9999px;
+	overflow: hidden;
+	padding: 5px 0;
+	cursor: pointer;
+	background-color: #e4e4e4;
+}
+.silder-ctrl-con.active>span{
+	background-color: #7bbedf;
+}
+
+.main .believeKuxiaoerBG {
+	width: 100%;
+	min-width: 1200px;
+	background-color: #c81623;
+	clear: both;
+	overflow: hidden;
+}
+
+.main .believeKuxiaoer {
+	width: 1200px;
+	height: 170px;
+	background-color: #c81623;
+	position: relative;
+}
+
+.main .believeKuxiaoer .believeText {
+	text-align: center;
+	color: #fff;
+}
+
+.main .believeKuxiaoer .believeText #believeOne {
+	font-size: 36px;
+	font-weight: 700;
+}
+
+.main .believeKuxiaoer .believeText #believeTwo {
+	font-size: 20px;
+	font-weight: 700;
+}
+
+.main .believeKuxiaoer #nowAdvisory {
+	width: 152px;
+	height: 40px;
+	background: url(../images/tmallPorxyOperation/nowAdvisory.png) center center no-repeat;
+	position: absolute;
+	bottom: 25px;
+	left: 50%;
+	margin-left: -76px;
+}
+

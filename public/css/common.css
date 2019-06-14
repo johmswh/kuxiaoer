@@ -1,0 +1,275 @@
+a, b, body, dd, del, div, dl, dt, em, form, h1, h2, h3, h4, h5, h6, html, i, iframe, img, ins, label, legend, li, ol, p, pre, small, span, strong, u, ul, var, input {
+    margin: 0;
+    padding: 0;
+}
+li {
+    list-style: none;
+}
+img,button,input {
+    border: 0;
+}
+em, i, u {
+    font-style: normal;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.clearfix {
+    *zoom: 1;
+}
+body {
+    font: 12px/1.5 'microsoft yahei',Arial, Verdana, "\5b8b\4f53";
+    color: #000;
+}
+a {
+    color: #000;
+    text-decoration: none;
+    font-family: 'microsoft yahei';
+}
+a:hover {
+    color: #c81623;
+}
+/* 版心公共类 */
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.containerMobile {
+    width: 750px;
+    margin: 0 auto;
+}
+.ml-5 {
+    margin-left: 5px;
+}
+.mr-5 {
+    margin-right: 5px;
+}
+.mt-5 {
+    margin-top: 5px;
+}
+.mb-5 {
+    margin-bottom: 5px;
+}
+.pl-5 {
+    padding-left: 5px;
+}
+.pr-5 {
+    padding-right: 5px;
+}
+.pt-5 {
+    padding-top: 5px;
+}
+.pd-5 {
+    padding-bottom: 5px;
+}
+.m-color {
+    color: #c81623;
+}
+/* 针对字体图标 避免对旁边的问题的高度造成影响*/
+.iconfont {
+    line-height: 1;
+}
+img {
+    vertical-align: top;
+}
+.one-txt-cut {
+    /* 这三句话缺一不可 */
+    overflow: hidden;
+    /* 文本强制不换行 */
+    white-space: nowrap;
+    /* 以省略号的形式显示多余的文本 */
+    text-overflow:ellipsis;
+}
+
+.txt-cut {
+    /* 这三句话缺一不可 */
+    overflow: hidden;
+    /* 以省略号的形式显示多余的文本 */
+    text-overflow:ellipsis;
+}
+
+/* 头部区域开始 */
+
+.top-bar {
+    width: 100%;
+    position: fixed;
+    left: 50%;
+    margin-left: -50%;
+    background-color: #fff;
+    z-index: 100;
+}
+
+.top-bar .header-top {
+    width: 100%;
+    height: 0px;
+}
+
+.top-bar .header-center {
+    width: 1200px;
+    height: 60px;
+}
+.top-bar .header-center .logo {
+    margin-top: 7px;
+}
+
+.top-bar .header-center .phone-call {
+    height: 60px;
+    margin-left: 100px;
+    margin-right: 80px;
+    font-size: 21px;
+    /*font-weight: 400;*/
+    font-weight: 700;
+    /*line-height: 30px;*/
+    background: url(../images/callPhone.png) 0 center no-repeat;
+}
+
+.top-bar .header-center .phone-call #phone-call-1 {
+    margin-left: 20px;
+    margin-top: 8px;
+    text-indent: 15px;
+}
+
+.top-bar .header-center .phone-call #phone-call-2 {
+    margin-left: 20px;
+    margin-top: -8px;
+    text-indent: 17px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.top-bar .header-center .nav-select li {
+    font-size: 20px;
+    /*margin-left: 40px;*/
+    padding: 0px 20px;
+    font-weight: 400;
+    /*font-weight: 700;*/
+    line-height: 60px;
+    text-align: center;
+}
+
+/*.top-bar .header-center .nav-select li:hover {
+    background-color: #c81623;
+}
+
+.top-bar .header-center .nav-select li:hover a {
+    color: #fff;
+}*/
+
+.top-bar .header-down {
+    width: 100%;
+    height: 0px;
+}
+
+.nullBox {
+    width: 1200px;
+    height: 60px;
+}
+/* 头部区域结束 */
+
+/*轮播案例开始*/
+.smallScrollPage {
+    width: 210px;
+    background-color: #ccc;
+    position: fixed;
+    left: 0px;
+    top: 180px;
+    z-index: 100;
+
+    animation: bounceInLeft 1s;
+    -webkit-animation: bounceInLeft 1s;
+}
+
+.smallScrollPage .scrollTop {
+    width: 210px;
+    height: 40px;
+    background-color: #c9121c;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+}
+
+.smallScrollPage .scrollCenter {
+    width: 210px;
+    height: 290px;
+    background-color: #fff;
+    overflow:hidden;
+}
+
+.smallScrollPage .scrollCenter #scrollInfo li {
+    line-height: 23px;
+    font-size: 14px;
+    text-indent: 15px;
+}
+
+.smallScrollPage .scrollDown {
+    width: 210px;
+    height: 40px;
+    background-color: #c9121c;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+}
+
+.smallScrollPage .scrollDown a {
+    color: #fff;
+}
+
+/*轮播案例结束*/
+
+/* 底部区域开始 */
+.footer {
+    width: 100%;
+    margin-top: -1px;
+    background-color: #000;
+}
+
+.footer .footer-links {
+    width: 1200px;
+    height: 120px;
+    /*position: relative;*/
+	background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+.footer .footer-links .step_one{
+    padding-top: 20px;
+    font-size: 15px;
+}
+
+.footer .footer-links a{
+    color: #fff;
+}
+
+.footer .footer-links a:hover{
+    color: #c81623;
+}
+
+
+.footer .footer-links .step_two{
+    padding-top: 5px;
+}
+
+.footer .footer-links .step_three{
+    padding-top: 5px;
+}
+/* 底部区域结束 */
+
+
+/* 分页公共模块 */
+
+/* 分页公共模块 */

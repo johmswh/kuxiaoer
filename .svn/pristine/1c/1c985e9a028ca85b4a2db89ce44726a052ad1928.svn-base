@@ -1,0 +1,145 @@
+
+.top-bar .header-center .nav-select .li_c {
+    background-color: #c81623;
+}
+
+.top-bar .header-center .nav-select .select-c {
+    color: #fff;
+}
+
+.top-bar .header-center .phone-call {
+    margin-right: 180px;
+}
+
+.top-bar .header-center .nav-select li {
+    font-size: 20px;
+    padding: 0px 20px;
+    font-weight: 400;
+    line-height: 60px;
+    text-align: center;
+}
+
+.pwdBoxBG {
+    width: 100%;
+    min-width: 1200px;
+    background-color: #c9121c;
+    clear: both;
+    overflow: hidden;
+}
+
+.pwdBox {
+    height: 40px;
+    line-height: 40px;
+    color: #fcf5f5;
+    font-size: 14px;
+}
+
+.contentInfoBox {
+    width: 100%;
+    min-width: 1200px;
+    position: relative;
+}
+
+.contentInfoBox .contentInfo {
+    /*height: 1227px;*/
+    background-color: #fff;
+    box-shadow: 1px 1px 10px #000;
+    border: 1px solid #fff;
+    position: absolute;
+    left: 50%;
+    margin-left: -600px;
+}
+
+.contentInfoBox .contentInfo .titleBox {
+    height: 135px;
+    position: relative;
+    border-bottom: 1px dashed #ccc;
+}
+
+.contentInfoBox .contentInfo .titleBox #titleOne{
+    width: 1200px;
+    position: absolute;
+    top: 40px;
+    font-size: 36px;
+    text-align: center;
+    color: #000;
+}
+
+.contentInfoBox .contentInfo .titleBox #titleTwo{
+    width: 1200px;
+    position: absolute;
+    top: 90px;
+    font-size: 18px;
+    text-align: center;
+    color: #7d7d7d;
+}
+
+.contentInfoBox .contentInfo .companyInfo {
+    margin-top: 50px;
+    width: 1100px;
+    position: absolute;
+    left: 50%;
+    margin-left: -550px;
+    /*background-color: #919191;*/
+}
+
+.contentInfoBox .contentBGTop {
+    /*height: 9856px;*/
+    background-color: #e7e7e7;
+}
+
+.contentInfoBox .contentBGDown {
+    height: 310px;
+    background-color: #c9121c;
+}
+
+.article-box .article-title {
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 44px;
+    color: #222;
+}
+
+.article-sub {
+    margin-top: 12px;
+    margin-bottom: 20px;
+    font-size: 13px;
+}
+
+.article-box .article-content>div img, .article-box .article-content img {
+    max-width: 100%;
+    display: block;
+    margin: 10px auto;
+}
+
+.article-box .article-content :not(blockquote)>pre,
+.article-box .article-content>div :not(blockquote)>pre,
+.article-box .article-content>div>pre,
+.article-box .article-content>div blockquote,
+.article-box .article-content>pre,
+.article-box .article-content blockquote {
+    position: relative;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #999;
+    margin: 1em 0;
+    padding: 12px 10px;
+    background: #f4f5f6;
+    border: 1px solid #e8e8e8;
+}
+
+.article-box .article-content pre {
+    white-space: pre-wrap;
+}
+
+.article-box .article-content>div h1, .article-box .article-content h1 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    color: #222;
+    margin: 36px 0 22px;
+}
+
+.article-box .article-content>div>p, .article-box .article-content>p {
+    margin: 16px 0;
+}
