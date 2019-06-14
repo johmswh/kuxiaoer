@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1,IE=10, IE=9, IE=8"/>
+	<meta name="renderer" content="webkit|ie-stand|ie-comp" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>酷小二</title>
+	<meta name="keywords" content="天猫入驻,天猫商城入驻,天猫商城入驻代理,天猫入驻代理,网店入驻,网店入驻代理" />
+	<meta name="title" content="天猫入驻_天猫商城入驻_网店入驻代理-一站式电商服务平台酷小二">
+	<meta name="description" content="酷小二是国内领先的电商服务平台,提供天猫入驻，京东入驻,企业品牌包装等电商服务，包揽全类目入驻不玩概率，入驻成功后再收费，签订企业合同法律保障，入驻网店就找酷小二。" />
+	<!-- 引入ico图标 -->
+	<link rel="shortcut icon" href="favicon.ico" />
+	<!-- 引用浏览器初始化样式css文件 -->
+	<link rel="stylesheet" href="css/normalize.css">
+	<!-- 引用公共css样式文件 -->
+	<link rel="stylesheet" href="css/common.css">
+	<!-- 图片字体 -->
+	<!-- <link rel="stylesheet" type="text/css" href="fonts/iconfont.css"> -->
+	<!-- 引用当前页面对应的css文件 -->
+	<link rel="stylesheet" href="css/proxyOperationTmall.css">
+	<!-- 轮播图代码 -->
+	<!-- <script src="javascript/jquery-1.11.3.min.js" type="text/javascript"></script> -->
+
+	<link rel="stylesheet" type="text/css" href="css/animation.css"/>
+	<script type="text/javascript" src="javascript/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="javascript/animation.js"></script>
+	<script>
+		var _hmt = _hmt || [];
+		(function() {
+		  var hm = document.createElement("script");
+		  hm.src = "https://hm.baidu.com/hm.js?5cc5773f8135b42949b7203f178b8ea0";
+		  var s = document.getElementsByTagName("script")[0]; 
+		  s.parentNode.insertBefore(hm, s);
+		})();
+	</script>
+</head>
+<body>
+	<!-- 头部区域开始 -->
+	<header class="top-bar">
+		<div class="header-top"></div>
+		<div class="header-center container clearfix">
+			<div class="logo fl">
+				<a href="index.html" class="logo">
+					<img src="images/logo.png" alt="酷小二"/>
+				</a>
+			</div>
+			<div class="phone-call fl">
+				<p id="phone-call-1">‭400-100-3669‬</p>
+				<p id="phone-call-2">‭028-6010-6111‬‬</p>
+			</div>
+			<div class="nav-select">
+				<ul class="nav-menu clearfix">
+					<li class="fl li_a"><a class="select-a" href="./index.html">天猫入驻</a></li>
+					<li class="fl li_c"><a class="select-c" href="./proxyOperationTmall.html">天猫代运营</a></li>
+					<li class="fl li_b"><a class="select-b" href="./jdin.html">京东入驻</a></li>
+					<li class="fl li_d"><a class="select-d" href="./proxyOperationJD.html">京东代运营</a></li>
+					<li class="fl li_e"><a class="select-e" href="./aboutMe.html">关于我们</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="header-down"></div>
+	</header>
+	<!-- 头部区域结束 -->
+	<div class="nullBox container"></div>
+
+	<!-- 主体区域开始 -->
+	<section class="main clearfix">
+		<!-- banner 区域开始 -->
+		<div class="bannerBG">
+			<div class="banner container">
+				<div class="banner-info">
+					
+				</div>
+			</div>
+		</div>
+		<!-- banner 区域结束 -->
+
+		<!-- 你有困难吗 区域开始-->
+		<div class="you-have-trouble container">
+			<div class="troubleTop"></div>
+			<div class="troubleCenter">
+				<div class="trouble-a"></div>
+				<div class="trouble-b"></div>
+			</div>
+		</div>
+		<div class="solve-troubleBG">
+			<div class="solve-trouble container animated" data-animtype="bounceIn">
+				
+			</div>
+		</div>
+		<!-- 你有困难吗 区域结束-->
+
+		<!-- 一站式托管 区域开始 -->
+		<div class="one-stepBG">
+			<div class="one-step container">
+				<div class="kuxiaoer-text animated" data-animtype="bounceInDown">
+					<p id="text-one">酷小二一站式托管，迅速提升业绩</p>
+					<p id="text-two">酷小二专业为品牌客户提供一站式电子商务解决方案</p>
+					<img id="upArrow" src="./images/tmallPorxyOperation/upArrow.png">
+				</div>
+				<div class="kuxiaoer-img">
+					<div class="img-one animated" data-animtype="bounceInRight"></div>
+					<div class="img-two animated" data-animtype="bounceInLeft"></div>
+				</div>
+			</div>
+		</div>
+		<!-- 一站式托管 区域结束 -->
+
+		<!-- 天猫淘宝托管成功案例 区域开始 -->
+		<div class="hostingCase container">
+			<div class="titleText">
+				<p id="title" class="animated" data-animtype="bounceInLeft">天猫淘宝托管成功案例</p>
+				<p id="des" class="animated" data-animtype="bounceInRight">用专业的技术打造好每一家店铺</p>
+			</div>
+			<div class="caseCenter animated" data-animtype="bounceIn" data-animdelay="500ms">
+			<!--<div class="caseCenter">-->
+				<div class="caseInfo">
+					<div class="silder-scroll">
+						<div class="silder-main">
+							<div class="silder-main-img">
+								<img src="images/tmallPorxyOperation/caseInfo/case_1.png" alt="">
+							</div>
+							<div class="silder-main-img">
+								<img src="images/tmallPorxyOperation/caseInfo/case_2.png" alt="">
+							</div>
+							<div class="silder-main-img">
+								<img src="images/tmallPorxyOperation/caseInfo/case_3.png" alt="">
+							</div>
+							<div class="silder-main-img">
+								<img src="images/tmallPorxyOperation/caseInfo/case_4.png" alt="">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- 天猫淘宝托管成功案例 区域结束 -->
+
+		<!-- 相信酷小二 区域开始-->
+		<div class="believeKuxiaoerBG animated" data-animtype="flipInX">
+			<div class="believeKuxiaoer container">
+				<div class="believeText">
+					<p id="believeOne">相信酷小二，用专业技术提升您的店铺</p>
+					<p id="believeTwo">全方位服务保障 我们用心让您放心</p>
+				</div>
+				<button id="nowAdvisory" onclick="openChat()"></button>
+			</div>
+		</div>
+		<!-- 相信酷小二 区域结束-->
+	</section>
+	<!-- 主体区域结束 -->
+
+	<!-- 底部区域开始 -->
+	<footer class="footer">
+		<div class="footer-links container">
+            <div class="step_one">
+            	<a href="#">关于酷小二</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">售后政策</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">服务与支持</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">联系我们</a>
+            </div>
+			<div class="step_two">
+				<span style="margin-right: 10px;">电话：‭400-100-3669‬</span><span style="margin-left: 10px;">QQ：3007303727</span>
+			</div>
+			<div class="step_three">
+				<span>Copyright © 2019 <a href="http://www.miitbeian.gov.cn/" target="_blank"> 蜀ICP备19009830号-1</a> 版权所有 四川猫乐电子商务有限公司</span>
+			</div>
+        </div>
+	</footer>
+	<!-- 底部区域结束 -->
+	<script src="javascript/wySilder.min.js" type="text/javascript"></script>
+	<script>
+		$(function (){
+			$(".caseInfo").silder({
+				auto: true,//自动播放，传入任何可以转化为true的值都会自动轮播
+				speed: 20,//轮播图运动速度
+				sideCtrl: true,//是否需要侧边控制按钮
+				bottomCtrl: true,//是否需要底部控制按钮
+				defaultView: 0,//默认显示的索引
+				interval: 3000,//自动轮播的时间，以毫秒为单位，默认3000毫秒
+				activeClass: "active",//小的控制按钮激活的样式，不包括作用两边，默认active
+			});
+		});
+		
+		function openChat() {
+			window.open("https://rytk20.kuaishang.cn/bs/im.htm?cas=122918___874793&fi=125383");
+		}
+
+		setTimeout( function() {
+			if ($('#nb_invite_ok').length > 0) {
+				$('#nb_invite_ok').click();
+			}
+		}, 3000);
+	</script>
+</body>
+</html>
